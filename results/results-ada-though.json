@@ -1,0 +1,5978 @@
+[
+    {
+        "fulltext": "Happy though we were with the idea, we decided to move on. We",
+        "prompt": "Happy though we were with the idea, we decided to move on.",
+        "prompt_tokens": [
+            "Happy",
+            " though",
+            " we",
+            " were",
+            " with",
+            " the",
+            " idea",
+            ",",
+            " we",
+            " decided",
+            " to",
+            " move",
+            " on",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -10.319709,
+            -3.7420857,
+            -1.5448556,
+            -4.9374022,
+            -1.6061,
+            -3.9202974,
+            -2.1115775,
+            -1.352621,
+            -4.036938,
+            -0.826364,
+            -4.61016,
+            -1.9121739,
+            -1.9599222
+        ],
+        "gen_text": " We",
+        "gen_tokens": [
+            " We"
+        ],
+        "gen_scores": [
+            -1.8788937
+        ],
+        "condition": "PiPP (Filler/Gap)",
+        "target_surprisal": 7.123165668814258,
+        "item_num": 1
+    },
+    {
+        "fulltext": "Though we were happy with the idea, we decided to move on.\n",
+        "prompt": "Though we were happy with the idea, we decided to move on.",
+        "prompt_tokens": [
+            "Though",
+            " we",
+            " were",
+            " happy",
+            " with",
+            " the",
+            " idea",
+            ",",
+            " we",
+            " decided",
+            " to",
+            " move",
+            " on",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -3.1005425,
+            -3.6168242,
+            -5.428638,
+            -1.968126,
+            -0.84181565,
+            -4.882602,
+            -1.5713342,
+            -0.91815275,
+            -2.9761426,
+            -0.59081286,
+            -4.3401346,
+            -1.7435067,
+            -2.2207496
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.7577559
+        ],
+        "condition": "PP (No Filler/No Gap)",
+        "target_surprisal": 7.831869121381382,
+        "item_num": 1
+    },
+    {
+        "fulltext": "Happy though we were happy with the idea, we decided to move on.\n",
+        "prompt": "Happy though we were happy with the idea, we decided to move on.",
+        "prompt_tokens": [
+            "Happy",
+            " though",
+            " we",
+            " were",
+            " happy",
+            " with",
+            " the",
+            " idea",
+            ",",
+            " we",
+            " decided",
+            " to",
+            " move",
+            " on",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -10.319709,
+            -3.7420857,
+            -1.5448556,
+            -8.073082,
+            -3.2704911,
+            -1.5627804,
+            -4.670122,
+            -1.5396385,
+            -1.2047178,
+            -4.032651,
+            -0.6989927,
+            -4.07456,
+            -1.6511954,
+            -2.0373867
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.749908
+        ],
+        "condition": "Filler/No Gap",
+        "target_surprisal": 11.646995366089953,
+        "item_num": 1
+    },
+    {
+        "fulltext": "Though we were with the idea, we decided to move on. We",
+        "prompt": "Though we were with the idea, we decided to move on.",
+        "prompt_tokens": [
+            "Though",
+            " we",
+            " were",
+            " with",
+            " the",
+            " idea",
+            ",",
+            " we",
+            " decided",
+            " to",
+            " move",
+            " on",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -3.1005425,
+            -3.6168242,
+            -6.23283,
+            -1.6715391,
+            -8.471175,
+            -3.5251703,
+            -1.230345,
+            -4.140155,
+            -0.6989568,
+            -4.6866956,
+            -1.7578552,
+            -2.0375555
+        ],
+        "gen_text": " We",
+        "gen_tokens": [
+            " We"
+        ],
+        "gen_scores": [
+            -1.7751573
+        ],
+        "condition": "No Filler/Gap",
+        "target_surprisal": 8.992072931703959,
+        "item_num": 1
+    },
+    {
+        "fulltext": "Honorable though their intentions were at the time, they were excluded.\n",
+        "prompt": "Honorable though their intentions were at the time, they were excluded.",
+        "prompt_tokens": [
+            "Hon",
+            "orable",
+            " though",
+            " their",
+            " intentions",
+            " were",
+            " at",
+            " the",
+            " time",
+            ",",
+            " they",
+            " were",
+            " excluded",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -4.7783575,
+            -8.196927,
+            -4.930772,
+            -3.666547,
+            -1.3160095,
+            -4.1957355,
+            -0.30198908,
+            -0.1372621,
+            -0.24135624,
+            -2.3913245,
+            -1.3652539,
+            -9.03027,
+            -3.1407626
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.3800416
+        ],
+        "condition": "PiPP (Filler/Gap)",
+        "target_surprisal": 6.053166798731775,
+        "item_num": 2
+    },
+    {
+        "fulltext": "Though their intentions were honorable at the time, they were excluded.\n",
+        "prompt": "Though their intentions were honorable at the time, they were excluded.",
+        "prompt_tokens": [
+            "Though",
+            " their",
+            " intentions",
+            " were",
+            " honorable",
+            " at",
+            " the",
+            " time",
+            ",",
+            " they",
+            " were",
+            " excluded",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -7.309827,
+            -6.885221,
+            -1.3113544,
+            -5.2804675,
+            -5.234855,
+            -0.40741065,
+            -0.29015037,
+            -0.20974986,
+            -2.2155325,
+            -1.7141393,
+            -10.678564,
+            -3.9504304
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.5195291
+        ],
+        "condition": "PP (No Filler/No Gap)",
+        "target_surprisal": 7.618104275825343,
+        "item_num": 2
+    },
+    {
+        "fulltext": "Honorable though their intentions were honorable at the time, they were excluded.\n",
+        "prompt": "Honorable though their intentions were honorable at the time, they were excluded.",
+        "prompt_tokens": [
+            "Hon",
+            "orable",
+            " though",
+            " their",
+            " intentions",
+            " were",
+            " honorable",
+            " at",
+            " the",
+            " time",
+            ",",
+            " they",
+            " were",
+            " excluded",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -4.7783575,
+            -8.196927,
+            -4.930772,
+            -3.666547,
+            -1.3160095,
+            -11.845673,
+            -5.1427984,
+            -0.55475914,
+            -0.28677976,
+            -0.37896577,
+            -2.179725,
+            -1.2216047,
+            -10.068364,
+            -3.2803223
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.602869
+        ],
+        "condition": "Filler/No Gap",
+        "target_surprisal": 17.08969369309229,
+        "item_num": 2
+    },
+    {
+        "fulltext": "Though their intentions were at the time, they were excluded.\n",
+        "prompt": "Though their intentions were at the time, they were excluded.",
+        "prompt_tokens": [
+            "Though",
+            " their",
+            " intentions",
+            " were",
+            " at",
+            " the",
+            " time",
+            ",",
+            " they",
+            " were",
+            " excluded",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -7.309827,
+            -6.885221,
+            -1.3113544,
+            -6.249701,
+            -3.0667896,
+            -1.4339123,
+            -2.7693129,
+            -2.6372833,
+            -1.267466,
+            -9.591652,
+            -2.4546373
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.3879204
+        ],
+        "condition": "No Filler/Gap",
+        "target_surprisal": 9.016412639738796,
+        "item_num": 2
+    },
+    {
+        "fulltext": "Unlikely though it was to succeed, they opted for a careful investigation.\n",
+        "prompt": "Unlikely though it was to succeed, they opted for a careful investigation.",
+        "prompt_tokens": [
+            "Unlike",
+            "ly",
+            " though",
+            " it",
+            " was",
+            " to",
+            " succeed",
+            ",",
+            " they",
+            " opted",
+            " for",
+            " a",
+            " careful",
+            " investigation",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -6.7149796,
+            -7.064792,
+            -0.86409795,
+            -3.0706835,
+            -3.5846834,
+            -7.0433416,
+            -0.76102763,
+            -5.0158615,
+            -9.535514,
+            -1.1118045,
+            -1.373702,
+            -8.566253,
+            -7.968921,
+            -1.5440683
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.5363672
+        ],
+        "condition": "PiPP (Filler/Gap)",
+        "target_surprisal": 5.171604964336988,
+        "item_num": 3
+    },
+    {
+        "fulltext": "Though it was unlikely to succeed, they opted for a careful investigation.\n",
+        "prompt": "Though it was unlikely to succeed, they opted for a careful investigation.",
+        "prompt_tokens": [
+            "Though",
+            " it",
+            " was",
+            " unlikely",
+            " to",
+            " succeed",
+            ",",
+            " they",
+            " opted",
+            " for",
+            " a",
+            " careful",
+            " investigation",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -2.9968524,
+            -2.0348587,
+            -7.8160515,
+            -1.6507487,
+            -4.9200525,
+            -0.63837916,
+            -4.9123325,
+            -6.8488894,
+            -1.2016659,
+            -1.2330588,
+            -8.404077,
+            -7.7676883,
+            -1.5295393
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.2497785
+        ],
+        "condition": "PP (No Filler/No Gap)",
+        "target_surprisal": 11.276178738382745,
+        "item_num": 3
+    },
+    {
+        "fulltext": "Unlikely though it was unlikely to succeed, they opted for a careful investigation.\n",
+        "prompt": "Unlikely though it was unlikely to succeed, they opted for a careful investigation.",
+        "prompt_tokens": [
+            "Unlike",
+            "ly",
+            " though",
+            " it",
+            " was",
+            " unlikely",
+            " to",
+            " succeed",
+            ",",
+            " they",
+            " opted",
+            " for",
+            " a",
+            " careful",
+            " investigation",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -6.7149796,
+            -7.064792,
+            -0.86409795,
+            -3.0706835,
+            -6.7746477,
+            -2.6791222,
+            -5.235578,
+            -0.81840765,
+            -4.8053465,
+            -8.494229,
+            -1.1078749,
+            -1.3424882,
+            -8.524198,
+            -7.561078,
+            -1.4682897
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.3202087
+        ],
+        "condition": "Filler/No Gap",
+        "target_surprisal": 9.773750640559822,
+        "item_num": 3
+    },
+    {
+        "fulltext": "Though it was to succeed, they opted for a careful investigation.\n",
+        "prompt": "Though it was to succeed, they opted for a careful investigation.",
+        "prompt_tokens": [
+            "Though",
+            " it",
+            " was",
+            " to",
+            " succeed",
+            ",",
+            " they",
+            " opted",
+            " for",
+            " a",
+            " careful",
+            " investigation",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -2.9968524,
+            -2.0348587,
+            -5.6224294,
+            -7.6295557,
+            -1.1550449,
+            -4.805819,
+            -8.302465,
+            -1.0436057,
+            -1.1388934,
+            -8.470542,
+            -8.303058,
+            -1.8672171
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.5249606
+        ],
+        "condition": "No Filler/Gap",
+        "target_surprisal": 8.11145101312831,
+        "item_num": 3
+    },
+    {
+        "fulltext": "Surprising though it was to the athletes, they did their best to continue.\n",
+        "prompt": "Surprising though it was to the athletes, they did their best to continue.",
+        "prompt_tokens": [
+            "Sur",
+            "prising",
+            " though",
+            " it",
+            " was",
+            " to",
+            " the",
+            " athletes",
+            ",",
+            " they",
+            " did",
+            " their",
+            " best",
+            " to",
+            " continue",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -8.048968,
+            -6.5096893,
+            -1.7051077,
+            -1.8462828,
+            -1.9449117,
+            -3.4671268,
+            -8.597703,
+            -0.978895,
+            -2.7446074,
+            -3.4944243,
+            -4.0335107,
+            -0.9395022,
+            -0.36230603,
+            -5.509941,
+            -3.6357622
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.2637119
+        ],
+        "condition": "PiPP (Filler/Gap)",
+        "target_surprisal": 2.8059144645569236,
+        "item_num": 4
+    },
+    {
+        "fulltext": "Though it was surprising to the athletes, they did their best to continue.\n",
+        "prompt": "Though it was surprising to the athletes, they did their best to continue.",
+        "prompt_tokens": [
+            "Though",
+            " it",
+            " was",
+            " surprising",
+            " to",
+            " the",
+            " athletes",
+            ",",
+            " they",
+            " did",
+            " their",
+            " best",
+            " to",
+            " continue",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -2.9968524,
+            -2.0348587,
+            -7.864287,
+            -1.2034863,
+            -3.665919,
+            -8.221554,
+            -1.5140841,
+            -2.6418328,
+            -3.386071,
+            -3.8394318,
+            -0.7800216,
+            -0.37089565,
+            -5.2014885,
+            -3.6277246
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.0053182
+        ],
+        "condition": "PP (No Filler/No Gap)",
+        "target_surprisal": 11.345767855027544,
+        "item_num": 4
+    },
+    {
+        "fulltext": "Surprising though it was surprising to the athletes, they did their best to continue.\n",
+        "prompt": "Surprising though it was surprising to the athletes, they did their best to continue.",
+        "prompt_tokens": [
+            "Sur",
+            "prising",
+            " though",
+            " it",
+            " was",
+            " surprising",
+            " to",
+            " the",
+            " athletes",
+            ",",
+            " they",
+            " did",
+            " their",
+            " best",
+            " to",
+            " continue",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -8.009464,
+            -6.509882,
+            -1.6907247,
+            -1.8524338,
+            -8.092324,
+            -2.1230307,
+            -3.4866247,
+            -8.616165,
+            -1.2808654,
+            -2.6821408,
+            -3.201201,
+            -4.573704,
+            -0.8452813,
+            -0.3294123,
+            -5.158887,
+            -3.4283137
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.1885517
+        ],
+        "condition": "Filler/No Gap",
+        "target_surprisal": 11.67475570406674,
+        "item_num": 4
+    },
+    {
+        "fulltext": "Though it was to the athletes, they did their best to continue.\n",
+        "prompt": "Though it was to the athletes, they did their best to continue.",
+        "prompt_tokens": [
+            "Though",
+            " it",
+            " was",
+            " to",
+            " the",
+            " athletes",
+            ",",
+            " they",
+            " did",
+            " their",
+            " best",
+            " to",
+            " continue",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -2.9968524,
+            -2.0348587,
+            -5.6224294,
+            -3.5971425,
+            -10.513496,
+            -2.0792751,
+            -4.269047,
+            -4.143669,
+            -3.58647,
+            -1.1003642,
+            -0.67510647,
+            -6.475033,
+            -4.001397
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.2513705
+        ],
+        "condition": "No Filler/Gap",
+        "target_surprisal": 8.11145101312831,
+        "item_num": 4
+    },
+    {
+        "fulltext": "Unfamiliar though the area was to the tourists, they worked to find their way around.\n",
+        "prompt": "Unfamiliar though the area was to the tourists, they worked to find their way around.",
+        "prompt_tokens": [
+            "Un",
+            "f",
+            "amiliar",
+            " though",
+            " the",
+            " area",
+            " was",
+            " to",
+            " the",
+            " tourists",
+            ",",
+            " they",
+            " worked",
+            " to",
+            " find",
+            " their",
+            " way",
+            " around",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -5.734923,
+            -3.399024,
+            -8.8716,
+            -2.2098622,
+            -6.108049,
+            -2.3150272,
+            -1.5124676,
+            -1.8496346,
+            -5.8130565,
+            -0.47415432,
+            -3.5365846,
+            -7.3673196,
+            -3.344196,
+            -2.956644,
+            -2.6027882,
+            -0.42585924,
+            -1.8935156,
+            -1.6372634
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -2.0036583
+        ],
+        "condition": "PiPP (Filler/Gap)",
+        "target_surprisal": 2.1820295060252324,
+        "item_num": 5
+    },
+    {
+        "fulltext": "Though the area was unfamiliar to the tourists, they worked to find their way around.\n",
+        "prompt": "Though the area was unfamiliar to the tourists, they worked to find their way around.",
+        "prompt_tokens": [
+            "Though",
+            " the",
+            " area",
+            " was",
+            " unfamiliar",
+            " to",
+            " the",
+            " tourists",
+            ",",
+            " they",
+            " worked",
+            " to",
+            " find",
+            " their",
+            " way",
+            " around",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -1.7170208,
+            -6.942584,
+            -2.1493263,
+            -8.182623,
+            -0.47855118,
+            -2.1463678,
+            -5.077181,
+            -0.3891323,
+            -2.122062,
+            -7.8671,
+            -2.7154827,
+            -3.0537074,
+            -2.490617,
+            -0.32134366,
+            -1.1284065,
+            -1.4804031
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.8145868
+        ],
+        "condition": "PP (No Filler/No Gap)",
+        "target_surprisal": 11.805029623563971,
+        "item_num": 5
+    },
+    {
+        "fulltext": "Unfamiliar though the area was unfamiliar to the tourists, they worked to find their way around.\n",
+        "prompt": "Unfamiliar though the area was unfamiliar to the tourists, they worked to find their way around.",
+        "prompt_tokens": [
+            "Un",
+            "f",
+            "amiliar",
+            " though",
+            " the",
+            " area",
+            " was",
+            " unfamiliar",
+            " to",
+            " the",
+            " tourists",
+            ",",
+            " they",
+            " worked",
+            " to",
+            " find",
+            " their",
+            " way",
+            " around",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -5.73431,
+            -3.3892372,
+            -8.873119,
+            -2.2089117,
+            -6.104423,
+            -2.3146565,
+            -10.764567,
+            -0.8680279,
+            -1.8852692,
+            -6.452846,
+            -1.2749969,
+            -3.1901395,
+            -7.7088814,
+            -3.1011024,
+            -2.618053,
+            -2.145846,
+            -0.39517248,
+            -1.9490358,
+            -1.6021633
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.9205471
+        ],
+        "condition": "Filler/No Gap",
+        "target_surprisal": 15.529987428216986,
+        "item_num": 5
+    },
+    {
+        "fulltext": "Though the area was to the tourists, they worked to find their way around.\n",
+        "prompt": "Though the area was to the tourists, they worked to find their way around.",
+        "prompt_tokens": [
+            "Though",
+            " the",
+            " area",
+            " was",
+            " to",
+            " the",
+            " tourists",
+            ",",
+            " they",
+            " worked",
+            " to",
+            " find",
+            " their",
+            " way",
+            " around",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -1.7078652,
+            -6.943579,
+            -2.15017,
+            -6.167127,
+            -3.5354981,
+            -10.603514,
+            -1.5302943,
+            -3.6214015,
+            -7.637139,
+            -2.4617248,
+            -4.235412,
+            -3.9608352,
+            -1.319805,
+            -1.9448799,
+            -2.0288653
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.6579762
+        ],
+        "condition": "No Filler/Gap",
+        "target_surprisal": 8.897283539432431,
+        "item_num": 5
+    },
+    {
+        "fulltext": "Distorted though it is, we worked to clean up the image.\n",
+        "prompt": "Distorted though it is, we worked to clean up the image.",
+        "prompt_tokens": [
+            "Dist",
+            "orted",
+            " though",
+            " it",
+            " is",
+            ",",
+            " we",
+            " worked",
+            " to",
+            " clean",
+            " up",
+            " the",
+            " image",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -6.057308,
+            -8.760073,
+            -0.9176159,
+            -1.5878205,
+            -0.21877368,
+            -3.4290342,
+            -11.397367,
+            -3.3295293,
+            -6.630436,
+            -0.6808757,
+            -0.76420766,
+            -3.7989945,
+            -1.6334114
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.7948095
+        ],
+        "condition": "PiPP (Filler/Gap)",
+        "target_surprisal": 0.315623703213029,
+        "item_num": 6
+    },
+    {
+        "fulltext": "Though it is distorted, we worked to clean up the image. We",
+        "prompt": "Though it is distorted, we worked to clean up the image.",
+        "prompt_tokens": [
+            "Though",
+            " it",
+            " is",
+            " distorted",
+            ",",
+            " we",
+            " worked",
+            " to",
+            " clean",
+            " up",
+            " the",
+            " image",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -2.9968524,
+            -1.727249,
+            -11.416631,
+            -1.2840714,
+            -4.3398814,
+            -11.423634,
+            -2.7483048,
+            -6.2475595,
+            -1.4538348,
+            -0.7888521,
+            -3.1875896,
+            -1.3338518
+        ],
+        "gen_text": " We",
+        "gen_tokens": [
+            " We"
+        ],
+        "gen_scores": [
+            -1.6375831
+        ],
+        "condition": "PP (No Filler/No Gap)",
+        "target_surprisal": 16.47071692735921,
+        "item_num": 6
+    },
+    {
+        "fulltext": "Distorted though it is distorted, we worked to clean up the image. We",
+        "prompt": "Distorted though it is distorted, we worked to clean up the image.",
+        "prompt_tokens": [
+            "Dist",
+            "orted",
+            " though",
+            " it",
+            " is",
+            " distorted",
+            ",",
+            " we",
+            " worked",
+            " to",
+            " clean",
+            " up",
+            " the",
+            " image",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -6.057308,
+            -8.760073,
+            -0.9176159,
+            -1.5878205,
+            -14.548204,
+            -0.46960598,
+            -3.7000387,
+            -12.177596,
+            -3.024731,
+            -6.9615865,
+            -1.2568873,
+            -0.8052742,
+            -3.8950522,
+            -1.3228563
+        ],
+        "gen_text": " We",
+        "gen_tokens": [
+            " We"
+        ],
+        "gen_scores": [
+            -1.7633907
+        ],
+        "condition": "Filler/No Gap",
+        "target_surprisal": 20.988621764640982,
+        "item_num": 6
+    },
+    {
+        "fulltext": "Though it is, we worked to clean up the image. We",
+        "prompt": "Though it is, we worked to clean up the image.",
+        "prompt_tokens": [
+            "Though",
+            " it",
+            " is",
+            ",",
+            " we",
+            " worked",
+            " to",
+            " clean",
+            " up",
+            " the",
+            " image",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -2.9968524,
+            -1.727249,
+            -4.76543,
+            -4.356843,
+            -10.497431,
+            -3.3381052,
+            -6.9939823,
+            -0.853212,
+            -0.7899852,
+            -4.3354707,
+            -1.6747212
+        ],
+        "gen_text": " We",
+        "gen_tokens": [
+            " We"
+        ],
+        "gen_scores": [
+            -1.6084815
+        ],
+        "condition": "No Filler/Gap",
+        "target_surprisal": 6.875062228703493,
+        "item_num": 6
+    },
+    {
+        "fulltext": "Risky though the route is, we are going to proceed cautiously. We",
+        "prompt": "Risky though the route is, we are going to proceed cautiously.",
+        "prompt_tokens": [
+            "R",
+            "isky",
+            " though",
+            " the",
+            " route",
+            " is",
+            ",",
+            " we",
+            " are",
+            " going",
+            " to",
+            " proceed",
+            " cautiously",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -9.494817,
+            -9.064025,
+            -3.270324,
+            -7.093681,
+            -1.9010864,
+            -0.685763,
+            -3.1025393,
+            -3.0396402,
+            -2.5411277,
+            -0.26977903,
+            -7.301962,
+            -4.23302,
+            -0.90052754
+        ],
+        "gen_text": " We",
+        "gen_tokens": [
+            " We"
+        ],
+        "gen_scores": [
+            -1.7587781
+        ],
+        "condition": "PiPP (Filler/Gap)",
+        "target_surprisal": 0.9893468793251383,
+        "item_num": 7
+    },
+    {
+        "fulltext": "Though the route is risky, we are going to proceed cautiously. We",
+        "prompt": "Though the route is risky, we are going to proceed cautiously.",
+        "prompt_tokens": [
+            "Though",
+            " the",
+            " route",
+            " is",
+            " risky",
+            ",",
+            " we",
+            " are",
+            " going",
+            " to",
+            " proceed",
+            " cautiously",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -1.7078652,
+            -8.208575,
+            -1.6158468,
+            -8.751037,
+            -0.579921,
+            -3.4931788,
+            -2.8356235,
+            -3.068778,
+            -0.18033497,
+            -6.370235,
+            -3.2322538,
+            -0.8744964
+        ],
+        "gen_text": " We",
+        "gen_tokens": [
+            " We"
+        ],
+        "gen_scores": [
+            -1.8082432
+        ],
+        "condition": "PP (No Filler/No Gap)",
+        "target_surprisal": 12.625077682535832,
+        "item_num": 7
+    },
+    {
+        "fulltext": "Risky though the route is risky, we are going to proceed cautiously. We",
+        "prompt": "Risky though the route is risky, we are going to proceed cautiously.",
+        "prompt_tokens": [
+            "R",
+            "isky",
+            " though",
+            " the",
+            " route",
+            " is",
+            " risky",
+            ",",
+            " we",
+            " are",
+            " going",
+            " to",
+            " proceed",
+            " cautiously",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -9.494817,
+            -9.064025,
+            -3.270324,
+            -7.093681,
+            -1.9010864,
+            -7.3573513,
+            -1.1880122,
+            -3.9795585,
+            -2.815652,
+            -2.6798136,
+            -0.27809846,
+            -6.8554006,
+            -3.734143,
+            -0.9051922
+        ],
+        "gen_text": " We",
+        "gen_tokens": [
+            " We"
+        ],
+        "gen_scores": [
+            -1.7591391
+        ],
+        "condition": "Filler/No Gap",
+        "target_surprisal": 10.614414234587969,
+        "item_num": 7
+    },
+    {
+        "fulltext": "Though the route is, we are going to proceed cautiously. We",
+        "prompt": "Though the route is, we are going to proceed cautiously.",
+        "prompt_tokens": [
+            "Though",
+            " the",
+            " route",
+            " is",
+            ",",
+            " we",
+            " are",
+            " going",
+            " to",
+            " proceed",
+            " cautiously",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -1.7078652,
+            -8.208575,
+            -1.6158468,
+            -6.1824064,
+            -5.4198036,
+            -3.0713327,
+            -2.8313804,
+            -0.21731031,
+            -6.9701614,
+            -5.888225,
+            -1.1799817
+        ],
+        "gen_text": " We",
+        "gen_tokens": [
+            " We"
+        ],
+        "gen_scores": [
+            -1.5768192
+        ],
+        "condition": "No Filler/Gap",
+        "target_surprisal": 8.919327054040188,
+        "item_num": 7
+    },
+    {
+        "fulltext": "Peaceful though the protest was, it attracted a large press contingent.\n",
+        "prompt": "Peaceful though the protest was, it attracted a large press contingent.",
+        "prompt_tokens": [
+            "Peace",
+            "ful",
+            " though",
+            " the",
+            " protest",
+            " was",
+            ",",
+            " it",
+            " attracted",
+            " a",
+            " large",
+            " press",
+            " contingent",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -4.223092,
+            -10.293375,
+            -2.185164,
+            -6.827416,
+            -1.5543,
+            -0.2032402,
+            -1.6864406,
+            -7.024479,
+            -1.8646348,
+            -2.608544,
+            -7.1434836,
+            -4.6907496,
+            -1.6549491
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.8695166
+        ],
+        "condition": "PiPP (Filler/Gap)",
+        "target_surprisal": 0.29321362864928113,
+        "item_num": 8
+    },
+    {
+        "fulltext": "Though the protest was peaceful, it attracted a large press contingent.\n",
+        "prompt": "Though the protest was peaceful, it attracted a large press contingent.",
+        "prompt_tokens": [
+            "Though",
+            " the",
+            " protest",
+            " was",
+            " peaceful",
+            ",",
+            " it",
+            " attracted",
+            " a",
+            " large",
+            " press",
+            " contingent",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -1.7078652,
+            -8.833521,
+            -1.4312153,
+            -3.1630774,
+            -0.34828353,
+            -2.3969045,
+            -5.790499,
+            -1.3063744,
+            -1.9894671,
+            -7.8573575,
+            -4.0527177,
+            -1.6226946
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.5308498
+        ],
+        "condition": "PP (No Filler/No Gap)",
+        "target_surprisal": 4.563356078927956,
+        "item_num": 8
+    },
+    {
+        "fulltext": "Peaceful though the protest was peaceful, it attracted a large press contingent.\n",
+        "prompt": "Peaceful though the protest was peaceful, it attracted a large press contingent.",
+        "prompt_tokens": [
+            "Peace",
+            "ful",
+            " though",
+            " the",
+            " protest",
+            " was",
+            " peaceful",
+            ",",
+            " it",
+            " attracted",
+            " a",
+            " large",
+            " press",
+            " contingent",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -4.223092,
+            -10.293375,
+            -2.185164,
+            -6.827416,
+            -1.5543,
+            -9.464304,
+            -0.42990127,
+            -1.6879991,
+            -7.180361,
+            -1.6428818,
+            -2.2021832,
+            -7.1309557,
+            -4.8872375,
+            -1.5627054
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.702518
+        ],
+        "condition": "Filler/No Gap",
+        "target_surprisal": 13.654104446265581,
+        "item_num": 8
+    },
+    {
+        "fulltext": "Though the protest was, it attracted a large press contingent.\n",
+        "prompt": "Though the protest was, it attracted a large press contingent.",
+        "prompt_tokens": [
+            "Though",
+            " the",
+            " protest",
+            " was",
+            ",",
+            " it",
+            " attracted",
+            " a",
+            " large",
+            " press",
+            " contingent",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -1.7078652,
+            -8.833521,
+            -1.4312153,
+            -5.816395,
+            -4.5991883,
+            -10.992954,
+            -1.5801188,
+            -2.273053,
+            -7.7522593,
+            -4.3818355,
+            -1.7007235
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.7246844
+        ],
+        "condition": "No Filler/Gap",
+        "target_surprisal": 8.391284222351363,
+        "item_num": 8
+    },
+    {
+        "fulltext": "Friendly though the dog was, the cats approached carefully.\n",
+        "prompt": "Friendly though the dog was, the cats approached carefully.",
+        "prompt_tokens": [
+            "Friend",
+            "ly",
+            " though",
+            " the",
+            " dog",
+            " was",
+            ",",
+            " the",
+            " cats",
+            " approached",
+            " carefully",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -0.4398896,
+            -9.900053,
+            -2.8990207,
+            -6.9104934,
+            -1.9274573,
+            -0.71541005,
+            -2.1871774,
+            -7.226823,
+            -9.47882,
+            -7.9209447,
+            -1.188934
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.7452943
+        ],
+        "condition": "PiPP (Filler/Gap)",
+        "target_surprisal": 1.0321185313371255,
+        "item_num": 9
+    },
+    {
+        "fulltext": "Though the dog was friendly, the cats approached carefully.\n",
+        "prompt": "Though the dog was friendly, the cats approached carefully.",
+        "prompt_tokens": [
+            "Though",
+            " the",
+            " dog",
+            " was",
+            " friendly",
+            ",",
+            " the",
+            " cats",
+            " approached",
+            " carefully",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -1.7078652,
+            -8.006907,
+            -1.8759168,
+            -6.3636303,
+            -0.8942825,
+            -1.9327186,
+            -6.713604,
+            -8.491677,
+            -7.3984237,
+            -1.3164804
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.6378967
+        ],
+        "condition": "PP (No Filler/No Gap)",
+        "target_surprisal": 9.180777875860747,
+        "item_num": 9
+    },
+    {
+        "fulltext": "Friendly though the dog was friendly, the cats approached carefully.\n",
+        "prompt": "Friendly though the dog was friendly, the cats approached carefully.",
+        "prompt_tokens": [
+            "Friend",
+            "ly",
+            " though",
+            " the",
+            " dog",
+            " was",
+            " friendly",
+            ",",
+            " the",
+            " cats",
+            " approached",
+            " carefully",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -0.4398896,
+            -9.900053,
+            -2.8990207,
+            -6.9104934,
+            -1.9274573,
+            -6.198775,
+            -1.3698344,
+            -1.9412922,
+            -6.784435,
+            -9.390726,
+            -8.404624,
+            -1.3654734
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.7918599
+        ],
+        "condition": "Filler/No Gap",
+        "target_surprisal": 8.942941952086485,
+        "item_num": 9
+    },
+    {
+        "fulltext": "Though the dog was, the cats approached carefully.\n",
+        "prompt": "Though the dog was, the cats approached carefully.",
+        "prompt_tokens": [
+            "Though",
+            " the",
+            " dog",
+            " was",
+            ",",
+            " the",
+            " cats",
+            " approached",
+            " carefully",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -1.7078652,
+            -8.006907,
+            -1.8759168,
+            -5.9200177,
+            -5.23456,
+            -7.7710176,
+            -9.965359,
+            -6.5220423,
+            -1.4623345
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.7581632
+        ],
+        "condition": "No Filler/Gap",
+        "target_surprisal": 8.540780177764887,
+        "item_num": 9
+    },
+    {
+        "fulltext": "Busy though the intersection was, the traffic patterns were evident. The",
+        "prompt": "Busy though the intersection was, the traffic patterns were evident.",
+        "prompt_tokens": [
+            "Bus",
+            "y",
+            " though",
+            " the",
+            " intersection",
+            " was",
+            ",",
+            " the",
+            " traffic",
+            " patterns",
+            " were",
+            " evident",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -3.781755,
+            -9.567124,
+            -3.8643339,
+            -9.542116,
+            -1.8380861,
+            -0.51868117,
+            -2.4177973,
+            -3.5442383,
+            -5.667631,
+            -1.4465214,
+            -8.437933,
+            -0.9311166
+        ],
+        "gen_text": " The",
+        "gen_tokens": [
+            " The"
+        ],
+        "gen_scores": [
+            -1.9863929
+        ],
+        "condition": "PiPP (Filler/Gap)",
+        "target_surprisal": 0.7482987517614854,
+        "item_num": 10
+    },
+    {
+        "fulltext": "Though the intersection was busy, the traffic patterns were evident. The",
+        "prompt": "Though the intersection was busy, the traffic patterns were evident.",
+        "prompt_tokens": [
+            "Though",
+            " the",
+            " intersection",
+            " was",
+            " busy",
+            ",",
+            " the",
+            " traffic",
+            " patterns",
+            " were",
+            " evident",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -1.7078652,
+            -9.922178,
+            -2.6253664,
+            -4.6837215,
+            -0.9108646,
+            -1.7394019,
+            -3.0448658,
+            -5.3230815,
+            -1.1078364,
+            -8.434925,
+            -0.93421173
+        ],
+        "gen_text": " The",
+        "gen_tokens": [
+            " The"
+        ],
+        "gen_scores": [
+            -1.9958836
+        ],
+        "condition": "PP (No Filler/No Gap)",
+        "target_surprisal": 6.757181780955017,
+        "item_num": 10
+    },
+    {
+        "fulltext": "Busy though the intersection was busy, the traffic patterns were evident. The",
+        "prompt": "Busy though the intersection was busy, the traffic patterns were evident.",
+        "prompt_tokens": [
+            "Bus",
+            "y",
+            " though",
+            " the",
+            " intersection",
+            " was",
+            " busy",
+            ",",
+            " the",
+            " traffic",
+            " patterns",
+            " were",
+            " evident",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -3.781755,
+            -9.567124,
+            -3.8643339,
+            -9.542116,
+            -1.8380861,
+            -8.33229,
+            -1.3811216,
+            -2.233248,
+            -2.70809,
+            -5.502567,
+            -1.1172266,
+            -9.085284,
+            -0.91218656
+        ],
+        "gen_text": " The",
+        "gen_tokens": [
+            " The"
+        ],
+        "gen_scores": [
+            -2.0431042
+        ],
+        "condition": "Filler/No Gap",
+        "target_surprisal": 12.020953462248702,
+        "item_num": 10
+    },
+    {
+        "fulltext": "Though the intersection was, the traffic patterns were evident. The",
+        "prompt": "Though the intersection was, the traffic patterns were evident.",
+        "prompt_tokens": [
+            "Though",
+            " the",
+            " intersection",
+            " was",
+            ",",
+            " the",
+            " traffic",
+            " patterns",
+            " were",
+            " evident",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -1.7078652,
+            -9.922178,
+            -2.6253664,
+            -6.3047924,
+            -5.4860787,
+            -6.021594,
+            -5.045673,
+            -1.6233518,
+            -8.898404,
+            -0.9952832
+        ],
+        "gen_text": " The",
+        "gen_tokens": [
+            " The"
+        ],
+        "gen_scores": [
+            -1.9021337
+        ],
+        "condition": "No Filler/Gap",
+        "target_surprisal": 9.095892729314427,
+        "item_num": 10
+    },
+    {
+        "fulltext": "Logical though the idea seemed at the time, it was implemented slowly.\n",
+        "prompt": "Logical though the idea seemed at the time, it was implemented slowly.",
+        "prompt_tokens": [
+            "Log",
+            "ical",
+            " though",
+            " the",
+            " idea",
+            " seemed",
+            " at",
+            " the",
+            " time",
+            ",",
+            " it",
+            " was",
+            " implemented",
+            " slowly",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -4.6515975,
+            -10.81928,
+            -3.0523672,
+            -3.7033362,
+            -5.9545693,
+            -2.7640631,
+            -0.5592193,
+            -0.11130332,
+            -0.27767375,
+            -1.3055238,
+            -1.3990763,
+            -5.8406825,
+            -6.1610403,
+            -1.6808614
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.9386613
+        ],
+        "condition": "PiPP (Filler/Gap)",
+        "target_surprisal": 3.987700127074175,
+        "item_num": 11
+    },
+    {
+        "fulltext": "Though the idea seemed logical at the time, it was implemented slowly.\n",
+        "prompt": "Though the idea seemed logical at the time, it was implemented slowly.",
+        "prompt_tokens": [
+            "Though",
+            " the",
+            " idea",
+            " seemed",
+            " logical",
+            " at",
+            " the",
+            " time",
+            ",",
+            " it",
+            " was",
+            " implemented",
+            " slowly",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -1.7078652,
+            -5.970696,
+            -5.4087176,
+            -5.5995436,
+            -2.464342,
+            -0.37696066,
+            -0.11750481,
+            -0.15751079,
+            -1.12489,
+            -1.6374997,
+            -7.9045,
+            -5.442454,
+            -1.620049
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.854004
+        ],
+        "condition": "PP (No Filler/No Gap)",
+        "target_surprisal": 8.078433782961532,
+        "item_num": 11
+    },
+    {
+        "fulltext": "Logical though the idea seemed logical at the time, it was implemented slowly.\n",
+        "prompt": "Logical though the idea seemed logical at the time, it was implemented slowly.",
+        "prompt_tokens": [
+            "Log",
+            "ical",
+            " though",
+            " the",
+            " idea",
+            " seemed",
+            " logical",
+            " at",
+            " the",
+            " time",
+            ",",
+            " it",
+            " was",
+            " implemented",
+            " slowly",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -4.6515975,
+            -10.81928,
+            -3.0523672,
+            -3.7033362,
+            -5.9545693,
+            -6.650502,
+            -3.2571878,
+            -0.27073693,
+            -0.1045387,
+            -0.48608765,
+            -1.2152511,
+            -1.447215,
+            -7.245062,
+            -6.2258906,
+            -1.7635609
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.8578444
+        ],
+        "condition": "Filler/No Gap",
+        "target_surprisal": 9.594646254822134,
+        "item_num": 11
+    },
+    {
+        "fulltext": "Though the idea seemed at the time, it was implemented slowly.\n",
+        "prompt": "Though the idea seemed at the time, it was implemented slowly.",
+        "prompt_tokens": [
+            "Though",
+            " the",
+            " idea",
+            " seemed",
+            " at",
+            " the",
+            " time",
+            ",",
+            " it",
+            " was",
+            " implemented",
+            " slowly",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -1.7078652,
+            -5.970696,
+            -5.4087176,
+            -4.7355056,
+            -2.6003046,
+            -0.30867502,
+            -3.604286,
+            -3.3794236,
+            -1.2233013,
+            -7.7832,
+            -6.25294,
+            -1.3581445
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.8886538
+        ],
+        "condition": "No Filler/Gap",
+        "target_surprisal": 6.831890445221915,
+        "item_num": 11
+    },
+    {
+        "fulltext": "Odd though it seems to us now, it is worth reconsidering.\n",
+        "prompt": "Odd though it seems to us now, it is worth reconsidering.",
+        "prompt_tokens": [
+            "O",
+            "dd",
+            " though",
+            " it",
+            " seems",
+            " to",
+            " us",
+            " now",
+            ",",
+            " it",
+            " is",
+            " worth",
+            " reconsider",
+            "ing",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -8.057744,
+            -7.4669375,
+            -0.9562648,
+            -2.1722252,
+            -1.4474447,
+            -4.332366,
+            -2.8305187,
+            -0.29831657,
+            -2.2771618,
+            -2.4913425,
+            -4.2001467,
+            -7.0834575,
+            -0.011614178,
+            -2.7333758
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.5579104
+        ],
+        "condition": "PiPP (Filler/Gap)",
+        "target_surprisal": 2.0882212906510134,
+        "item_num": 12
+    },
+    {
+        "fulltext": "Though it seems odd to us now, it is worth reconsidering.\n",
+        "prompt": "Though it seems odd to us now, it is worth reconsidering.",
+        "prompt_tokens": [
+            "Though",
+            " it",
+            " seems",
+            " odd",
+            " to",
+            " us",
+            " now",
+            ",",
+            " it",
+            " is",
+            " worth",
+            " reconsider",
+            "ing",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -2.9968524,
+            -3.972061,
+            -5.249372,
+            -0.95706093,
+            -4.1285124,
+            -1.8659596,
+            -0.46758696,
+            -2.2508707,
+            -2.8530524,
+            -4.223215,
+            -7.0459833,
+            -0.013939497,
+            -2.041607
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.6151434
+        ],
+        "condition": "PP (No Filler/No Gap)",
+        "target_surprisal": 7.57324295218138,
+        "item_num": 12
+    },
+    {
+        "fulltext": "Odd though it seems odd to us now, it is worth reconsidering.\n",
+        "prompt": "Odd though it seems odd to us now, it is worth reconsidering.",
+        "prompt_tokens": [
+            "O",
+            "dd",
+            " though",
+            " it",
+            " seems",
+            " odd",
+            " to",
+            " us",
+            " now",
+            ",",
+            " it",
+            " is",
+            " worth",
+            " reconsider",
+            "ing",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -8.057744,
+            -7.4669375,
+            -0.9562648,
+            -2.1722252,
+            -9.301179,
+            -1.5754225,
+            -4.8457284,
+            -2.1581972,
+            -0.42400184,
+            -2.5944004,
+            -2.5191236,
+            -3.908299,
+            -7.3379107,
+            -0.008662702,
+            -2.1110935
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.540862
+        ],
+        "condition": "Filler/No Gap",
+        "target_surprisal": 13.418764817720568,
+        "item_num": 12
+    },
+    {
+        "fulltext": "Though it seems to us now, it is worth reconsidering.\n",
+        "prompt": "Though it seems to us now, it is worth reconsidering.",
+        "prompt_tokens": [
+            "Though",
+            " it",
+            " seems",
+            " to",
+            " us",
+            " now",
+            ",",
+            " it",
+            " is",
+            " worth",
+            " reconsider",
+            "ing",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -2.9968524,
+            -3.972061,
+            -1.8323563,
+            -5.538805,
+            -4.2456264,
+            -1.418006,
+            -2.5128748,
+            -2.1151268,
+            -5.2914605,
+            -7.043886,
+            -0.02301269,
+            -2.4018536
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.4220563
+        ],
+        "condition": "No Filler/Gap",
+        "target_surprisal": 2.64353134715165,
+        "item_num": 12
+    },
+    {
+        "fulltext": "Viable though the plan seemed to the coach, the owners were still exploring it.\n",
+        "prompt": "Viable though the plan seemed to the coach, the owners were still exploring it.",
+        "prompt_tokens": [
+            "V",
+            "iable",
+            " though",
+            " the",
+            " plan",
+            " seemed",
+            " to",
+            " the",
+            " coach",
+            ",",
+            " the",
+            " owners",
+            " were",
+            " still",
+            " exploring",
+            " it",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -11.109076,
+            -9.128272,
+            -2.5097454,
+            -5.7593594,
+            -6.233887,
+            -1.0481106,
+            -4.5161448,
+            -8.643134,
+            -0.6355173,
+            -1.705796,
+            -7.1665244,
+            -2.1445634,
+            -3.987949,
+            -9.005772,
+            -4.818021,
+            -0.77882713
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.5578775
+        ],
+        "condition": "PiPP (Filler/Gap)",
+        "target_surprisal": 1.512103964923156,
+        "item_num": 13
+    },
+    {
+        "fulltext": "Though the plan seemed viable to the coach, the owners were still exploring it.\n",
+        "prompt": "Though the plan seemed viable to the coach, the owners were still exploring it.",
+        "prompt_tokens": [
+            "Though",
+            " the",
+            " plan",
+            " seemed",
+            " viable",
+            " to",
+            " the",
+            " coach",
+            ",",
+            " the",
+            " owners",
+            " were",
+            " still",
+            " exploring",
+            " it",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -1.7078652,
+            -7.8002896,
+            -5.8009744,
+            -6.6109643,
+            -2.5024638,
+            -1.7326195,
+            -7.6071424,
+            -0.33109057,
+            -1.4723057,
+            -6.9747434,
+            -2.2214053,
+            -3.8963888,
+            -7.795914,
+            -4.4662538,
+            -0.7698195
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.2097034
+        ],
+        "condition": "PP (No Filler/No Gap)",
+        "target_surprisal": 9.537605411103979,
+        "item_num": 13
+    },
+    {
+        "fulltext": "Viable though the plan seemed viable to the coach, the owners were still exploring it.\n",
+        "prompt": "Viable though the plan seemed viable to the coach, the owners were still exploring it.",
+        "prompt_tokens": [
+            "V",
+            "iable",
+            " though",
+            " the",
+            " plan",
+            " seemed",
+            " viable",
+            " to",
+            " the",
+            " coach",
+            ",",
+            " the",
+            " owners",
+            " were",
+            " still",
+            " exploring",
+            " it",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -11.109076,
+            -9.128272,
+            -2.5097454,
+            -5.7593594,
+            -6.233887,
+            -10.630164,
+            -2.8243155,
+            -1.6890103,
+            -9.175105,
+            -0.65355825,
+            -1.480294,
+            -6.9579463,
+            -2.136776,
+            -4.0975823,
+            -8.62145,
+            -4.912241,
+            -0.87605345
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.2797233
+        ],
+        "condition": "Filler/No Gap",
+        "target_surprisal": 15.336084886636389,
+        "item_num": 13
+    },
+    {
+        "fulltext": "Though the plan seemed to the coach, the owners were still exploring it.\n",
+        "prompt": "Though the plan seemed to the coach, the owners were still exploring it.",
+        "prompt_tokens": [
+            "Though",
+            " the",
+            " plan",
+            " seemed",
+            " to",
+            " the",
+            " coach",
+            ",",
+            " the",
+            " owners",
+            " were",
+            " still",
+            " exploring",
+            " it",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -1.7078652,
+            -7.8002896,
+            -5.8009744,
+            -0.7997719,
+            -6.502264,
+            -7.298593,
+            -3.0760772,
+            -2.712745,
+            -7.9082294,
+            -3.0798993,
+            -4.414438,
+            -8.324437,
+            -4.333338,
+            -0.6846214
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.1147419
+        ],
+        "condition": "No Filler/Gap",
+        "target_surprisal": 1.153826953972344,
+        "item_num": 13
+    },
+    {
+        "fulltext": "Limited though their options seem to them, they continue to seek solutions.\n",
+        "prompt": "Limited though their options seem to them, they continue to seek solutions.",
+        "prompt_tokens": [
+            "Limited",
+            " though",
+            " their",
+            " options",
+            " seem",
+            " to",
+            " them",
+            ",",
+            " they",
+            " continue",
+            " to",
+            " seek",
+            " solutions",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -11.873035,
+            -5.882498,
+            -8.001492,
+            -4.5360093,
+            -0.9577461,
+            -9.788759,
+            -2.4468641,
+            -2.212003,
+            -5.351476,
+            -0.38474992,
+            -4.454443,
+            -5.5125117,
+            -1.3581907
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.3014398
+        ],
+        "condition": "PiPP (Filler/Gap)",
+        "target_surprisal": 1.3817355489007452,
+        "item_num": 14
+    },
+    {
+        "fulltext": "Though their options seem limited to them, they continue to seek solutions.\n",
+        "prompt": "Though their options seem limited to them, they continue to seek solutions.",
+        "prompt_tokens": [
+            "Though",
+            " their",
+            " options",
+            " seem",
+            " limited",
+            " to",
+            " them",
+            ",",
+            " they",
+            " continue",
+            " to",
+            " seek",
+            " solutions",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -7.309827,
+            -7.847903,
+            -4.02453,
+            -1.437647,
+            -3.5726843,
+            -5.3623753,
+            -0.5307041,
+            -2.2515807,
+            -4.945247,
+            -0.14387164,
+            -3.827416,
+            -4.419025,
+            -1.310948
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.0494708
+        ],
+        "condition": "PP (No Filler/No Gap)",
+        "target_surprisal": 2.0740861974488953,
+        "item_num": 14
+    },
+    {
+        "fulltext": "Limited though their options seem limited to them, they continue to seek solutions.\n",
+        "prompt": "Limited though their options seem limited to them, they continue to seek solutions.",
+        "prompt_tokens": [
+            "Limited",
+            " though",
+            " their",
+            " options",
+            " seem",
+            " limited",
+            " to",
+            " them",
+            ",",
+            " they",
+            " continue",
+            " to",
+            " seek",
+            " solutions",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -11.873035,
+            -5.882498,
+            -8.001492,
+            -4.5360093,
+            -1.9194999,
+            -3.6620853,
+            -4.540466,
+            -1.2980932,
+            -2.342241,
+            -5.197724,
+            -0.2032589,
+            -4.417645,
+            -4.8583665,
+            -1.4120834
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.1828995
+        ],
+        "condition": "Filler/No Gap",
+        "target_surprisal": 2.7692529867168614,
+        "item_num": 14
+    },
+    {
+        "fulltext": "Though their options seem to them, they continue to seek solutions.\n",
+        "prompt": "Though their options seem to them, they continue to seek solutions.",
+        "prompt_tokens": [
+            "Though",
+            " their",
+            " options",
+            " seem",
+            " to",
+            " them",
+            ",",
+            " they",
+            " continue",
+            " to",
+            " seek",
+            " solutions",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -7.309827,
+            -7.847903,
+            -4.02453,
+            -1.6146126,
+            -10.569318,
+            -4.123597,
+            -3.0284374,
+            -6.6510887,
+            -0.32089883,
+            -4.736282,
+            -5.3287206,
+            -1.8758734
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.3759029
+        ],
+        "condition": "No Filler/Gap",
+        "target_surprisal": 2.3293935909768355,
+        "item_num": 14
+    },
+    {
+        "fulltext": "Lucky though the win seemed to the players, the fans cheered loudly.\n",
+        "prompt": "Lucky though the win seemed to the players, the fans cheered loudly.",
+        "prompt_tokens": [
+            "L",
+            "ucky",
+            " though",
+            " the",
+            " win",
+            " seemed",
+            " to",
+            " the",
+            " players",
+            ",",
+            " the",
+            " fans",
+            " cheered",
+            " loudly",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -8.4572,
+            -11.094464,
+            -4.201713,
+            -7.0744686,
+            -6.8904576,
+            -0.47449353,
+            -5.5206385,
+            -4.250193,
+            -0.6249163,
+            -1.7868054,
+            -4.1428747,
+            -7.448664,
+            -3.1225848,
+            -1.4596405
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.2139833
+        ],
+        "condition": "PiPP (Filler/Gap)",
+        "target_surprisal": 0.6845494626648986,
+        "item_num": 15
+    },
+    {
+        "fulltext": "Though the win seemed lucky to the players, the fans cheered loudly.\n",
+        "prompt": "Though the win seemed lucky to the players, the fans cheered loudly.",
+        "prompt_tokens": [
+            "Though",
+            " the",
+            " win",
+            " seemed",
+            " lucky",
+            " to",
+            " the",
+            " players",
+            ",",
+            " the",
+            " fans",
+            " cheered",
+            " loudly",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -1.7078652,
+            -9.165447,
+            -6.5285077,
+            -9.317691,
+            -2.321484,
+            -1.9071906,
+            -4.4391503,
+            -0.48895305,
+            -1.5390795,
+            -3.825324,
+            -6.2618623,
+            -2.7253876,
+            -1.4842684
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.0776006
+        ],
+        "condition": "PP (No Filler/No Gap)",
+        "target_surprisal": 13.442586598235726,
+        "item_num": 15
+    },
+    {
+        "fulltext": "Lucky though the win seemed lucky to the players, the fans cheered loudly.\n",
+        "prompt": "Lucky though the win seemed lucky to the players, the fans cheered loudly.",
+        "prompt_tokens": [
+            "L",
+            "ucky",
+            " though",
+            " the",
+            " win",
+            " seemed",
+            " lucky",
+            " to",
+            " the",
+            " players",
+            ",",
+            " the",
+            " fans",
+            " cheered",
+            " loudly",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -8.4572,
+            -11.094464,
+            -4.201713,
+            -7.0744686,
+            -6.8904576,
+            -8.577833,
+            -1.9711337,
+            -2.3720999,
+            -3.9327848,
+            -1.0870456,
+            -1.6694247,
+            -2.9743223,
+            -6.7877235,
+            -2.9543507,
+            -1.6161611
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.2757815
+        ],
+        "condition": "Filler/No Gap",
+        "target_surprisal": 12.3751971306737,
+        "item_num": 15
+    },
+    {
+        "fulltext": "Though the win seemed to the players, the fans cheered loudly.\n",
+        "prompt": "Though the win seemed to the players, the fans cheered loudly.",
+        "prompt_tokens": [
+            "Though",
+            " the",
+            " win",
+            " seemed",
+            " to",
+            " the",
+            " players",
+            ",",
+            " the",
+            " fans",
+            " cheered",
+            " loudly",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -1.7078652,
+            -9.165447,
+            -6.5285077,
+            -1.009023,
+            -7.343888,
+            -5.2493405,
+            -2.9379196,
+            -2.0830195,
+            -3.0996802,
+            -9.365449,
+            -3.873898,
+            -1.4621876
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.1530068
+        ],
+        "condition": "No Filler/Gap",
+        "target_surprisal": 1.4557124782429045,
+        "item_num": 15
+    },
+    {
+        "fulltext": "We can do it, tiny though we are. We",
+        "prompt": "We can do it, tiny though we are.",
+        "prompt_tokens": [
+            "We",
+            " can",
+            " do",
+            " it",
+            ",",
+            " tiny",
+            " though",
+            " we",
+            " are",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -3.6245186,
+            -3.2011187,
+            -2.2804472,
+            -2.1348596,
+            -11.853429,
+            -7.5808697,
+            -0.8834453,
+            -0.23963913,
+            -0.9705314
+        ],
+        "gen_text": " We",
+        "gen_tokens": [
+            " We"
+        ],
+        "gen_scores": [
+            -1.5821179
+        ],
+        "condition": "PiPP (Filler/Gap)",
+        "target_surprisal": 1.400180837807023,
+        "item_num": 16
+    },
+    {
+        "fulltext": "We can do it, though we are tiny. We",
+        "prompt": "We can do it, though we are tiny.",
+        "prompt_tokens": [
+            "We",
+            " can",
+            " do",
+            " it",
+            ",",
+            " though",
+            " we",
+            " are",
+            " tiny",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -3.6245186,
+            -3.2011187,
+            -2.2804472,
+            -2.1348596,
+            -4.9039526,
+            -2.46114,
+            -3.572994,
+            -8.320163,
+            -1.3284142
+        ],
+        "gen_text": " We",
+        "gen_tokens": [
+            " We"
+        ],
+        "gen_scores": [
+            -1.4229006
+        ],
+        "condition": "PP (No Filler/No Gap)",
+        "target_surprisal": 12.003457899487842,
+        "item_num": 16
+    },
+    {
+        "fulltext": "We can do it, tiny though we are tiny. We",
+        "prompt": "We can do it, tiny though we are tiny.",
+        "prompt_tokens": [
+            "We",
+            " can",
+            " do",
+            " it",
+            ",",
+            " tiny",
+            " though",
+            " we",
+            " are",
+            " tiny",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -3.6245186,
+            -3.2011187,
+            -2.2804472,
+            -2.1348596,
+            -11.853429,
+            -7.5808697,
+            -0.8834453,
+            -0.23963913,
+            -12.520954,
+            -1.2949084
+        ],
+        "gen_text": " We",
+        "gen_tokens": [
+            " We"
+        ],
+        "gen_scores": [
+            -1.498896
+        ],
+        "condition": "Filler/No Gap",
+        "target_surprisal": 17.100883235829425,
+        "item_num": 16
+    },
+    {
+        "fulltext": "We can do it, though we are. We",
+        "prompt": "We can do it, though we are.",
+        "prompt_tokens": [
+            "We",
+            " can",
+            " do",
+            " it",
+            ",",
+            " though",
+            " we",
+            " are",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -3.6245186,
+            -3.2011187,
+            -2.2804472,
+            -2.1348596,
+            -4.9039526,
+            -2.46114,
+            -3.572994,
+            -7.762178
+        ],
+        "gen_text": " We",
+        "gen_tokens": [
+            " We"
+        ],
+        "gen_scores": [
+            -1.6151258
+        ],
+        "condition": "No Filler/Gap",
+        "target_surprisal": 11.198455707097413,
+        "item_num": 16
+    },
+    {
+        "fulltext": "We liked the end of the movie, tragic though it was. It",
+        "prompt": "We liked the end of the movie, tragic though it was.",
+        "prompt_tokens": [
+            "We",
+            " liked",
+            " the",
+            " end",
+            " of",
+            " the",
+            " movie",
+            ",",
+            " tragic",
+            " though",
+            " it",
+            " was",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -7.8816137,
+            -1.584846,
+            -7.930162,
+            -1.4832288,
+            -0.46566972,
+            -3.8540123,
+            -1.4960073,
+            -12.450836,
+            -5.13929,
+            -0.124912485,
+            -0.49995115,
+            -0.687074
+        ],
+        "gen_text": " It",
+        "gen_tokens": [
+            " It"
+        ],
+        "gen_scores": [
+            -2.1274195
+        ],
+        "condition": "PiPP (Filler/Gap)",
+        "target_surprisal": 0.9912382525237436,
+        "item_num": 17
+    },
+    {
+        "fulltext": "We liked the end of the movie, though it was tragic. It",
+        "prompt": "We liked the end of the movie, though it was tragic.",
+        "prompt_tokens": [
+            "We",
+            " liked",
+            " the",
+            " end",
+            " of",
+            " the",
+            " movie",
+            ",",
+            " though",
+            " it",
+            " was",
+            " tragic",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -7.8816137,
+            -1.584846,
+            -7.930162,
+            -1.4832288,
+            -0.46566972,
+            -3.8540123,
+            -1.4960073,
+            -4.3862147,
+            -2.4571378,
+            -1.1142462,
+            -8.963609,
+            -0.91069937
+        ],
+        "gen_text": " It",
+        "gen_tokens": [
+            " It"
+        ],
+        "gen_scores": [
+            -1.939463
+        ],
+        "condition": "PP (No Filler/No Gap)",
+        "target_surprisal": 12.93175425276768,
+        "item_num": 17
+    },
+    {
+        "fulltext": "We liked the end of the movie, tragic though it was tragic. It",
+        "prompt": "We liked the end of the movie, tragic though it was tragic.",
+        "prompt_tokens": [
+            "We",
+            " liked",
+            " the",
+            " end",
+            " of",
+            " the",
+            " movie",
+            ",",
+            " tragic",
+            " though",
+            " it",
+            " was",
+            " tragic",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -7.8816137,
+            -1.584846,
+            -7.930162,
+            -1.4832288,
+            -0.46566972,
+            -3.8540123,
+            -1.4960073,
+            -12.450836,
+            -5.13929,
+            -0.124912485,
+            -0.49995115,
+            -9.989603,
+            -0.6875228
+        ],
+        "gen_text": " It",
+        "gen_tokens": [
+            " It"
+        ],
+        "gen_scores": [
+            -2.0281012
+        ],
+        "condition": "Filler/No Gap",
+        "target_surprisal": 17.96275935212178,
+        "item_num": 17
+    },
+    {
+        "fulltext": "We liked the end of the movie, though it was. I",
+        "prompt": "We liked the end of the movie, though it was.",
+        "prompt_tokens": [
+            "We",
+            " liked",
+            " the",
+            " end",
+            " of",
+            " the",
+            " movie",
+            ",",
+            " though",
+            " it",
+            " was",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -7.8816137,
+            -1.584846,
+            -7.930162,
+            -1.4832288,
+            -0.46566972,
+            -3.8540123,
+            -1.4960073,
+            -4.3862147,
+            -2.4571378,
+            -1.1142462,
+            -10.025637
+        ],
+        "gen_text": " I",
+        "gen_tokens": [
+            " I"
+        ],
+        "gen_scores": [
+            -2.115241
+        ],
+        "condition": "No Filler/Gap",
+        "target_surprisal": 14.463936781652905,
+        "item_num": 17
+    },
+    {
+        "fulltext": "The students enjoyed the work, challenging though it was.\n",
+        "prompt": "The students enjoyed the work, challenging though it was.",
+        "prompt_tokens": [
+            "The",
+            " students",
+            " enjoyed",
+            " the",
+            " work",
+            ",",
+            " challenging",
+            " though",
+            " it",
+            " was",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -7.8135843,
+            -6.658516,
+            -1.1929913,
+            -6.0665584,
+            -2.1984456,
+            -8.710269,
+            -8.671551,
+            -0.38663885,
+            -0.22909407,
+            -0.6256167
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.8713849
+        ],
+        "condition": "PiPP (Filler/Gap)",
+        "target_surprisal": 0.9025741105873184,
+        "item_num": 18
+    },
+    {
+        "fulltext": "The students enjoyed the work, though it was challenging.\n",
+        "prompt": "The students enjoyed the work, though it was challenging.",
+        "prompt_tokens": [
+            "The",
+            " students",
+            " enjoyed",
+            " the",
+            " work",
+            ",",
+            " though",
+            " it",
+            " was",
+            " challenging",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -7.8135843,
+            -6.658516,
+            -1.1929913,
+            -6.0665584,
+            -2.1984456,
+            -5.684565,
+            -2.3449721,
+            -0.77362293,
+            -5.3679376,
+            -1.0420822
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.9901738
+        ],
+        "condition": "PP (No Filler/No Gap)",
+        "target_surprisal": 7.7442969553214045,
+        "item_num": 18
+    },
+    {
+        "fulltext": "The students enjoyed the work, challenging though it was challenging.\n",
+        "prompt": "The students enjoyed the work, challenging though it was challenging.",
+        "prompt_tokens": [
+            "The",
+            " students",
+            " enjoyed",
+            " the",
+            " work",
+            ",",
+            " challenging",
+            " though",
+            " it",
+            " was",
+            " challenging",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -7.8135843,
+            -6.658516,
+            -1.1929913,
+            -6.0665584,
+            -2.1984456,
+            -8.710269,
+            -8.671551,
+            -0.38663885,
+            -0.22909407,
+            -10.164093,
+            -0.7165721
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -2.0193255
+        ],
+        "condition": "Filler/No Gap",
+        "target_surprisal": 12.566261891108871,
+        "item_num": 18
+    },
+    {
+        "fulltext": "The students enjoyed the work, though it was.\n",
+        "prompt": "The students enjoyed the work, though it was.",
+        "prompt_tokens": [
+            "The",
+            " students",
+            " enjoyed",
+            " the",
+            " work",
+            ",",
+            " though",
+            " it",
+            " was",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -7.8135843,
+            -6.658516,
+            -1.1929913,
+            -6.0665584,
+            -2.1984456,
+            -5.684565,
+            -2.3449721,
+            -0.77362293,
+            -10.19715
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.9948856
+        ],
+        "condition": "No Filler/Gap",
+        "target_surprisal": 14.711377736200895,
+        "item_num": 18
+    },
+    {
+        "fulltext": "The winner was chosen quickly, dubious though the decision was.\n",
+        "prompt": "The winner was chosen quickly, dubious though the decision was.",
+        "prompt_tokens": [
+            "The",
+            " winner",
+            " was",
+            " chosen",
+            " quickly",
+            ",",
+            " dubious",
+            " though",
+            " the",
+            " decision",
+            " was",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -8.24988,
+            -3.4389176,
+            -2.9115524,
+            -9.720545,
+            -1.435376,
+            -15.14704,
+            -5.1302533,
+            -1.8305448,
+            -4.5326347,
+            -1.0039313,
+            -0.62669826
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.8714588
+        ],
+        "condition": "PiPP (Filler/Gap)",
+        "target_surprisal": 0.9041344718357421,
+        "item_num": 19
+    },
+    {
+        "fulltext": "The winner was chosen quickly, though the decision was dubious. The",
+        "prompt": "The winner was chosen quickly, though the decision was dubious.",
+        "prompt_tokens": [
+            "The",
+            " winner",
+            " was",
+            " chosen",
+            " quickly",
+            ",",
+            " though",
+            " the",
+            " decision",
+            " was",
+            " dubious",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -8.24988,
+            -3.4389176,
+            -2.9115524,
+            -9.720545,
+            -1.435376,
+            -4.8898997,
+            -2.9892492,
+            -6.040497,
+            -0.9368122,
+            -8.112392,
+            -0.89035624
+        ],
+        "gen_text": " The",
+        "gen_tokens": [
+            " The"
+        ],
+        "gen_scores": [
+            -2.0015237
+        ],
+        "condition": "PP (No Filler/No Gap)",
+        "target_surprisal": 11.7037077081473,
+        "item_num": 19
+    },
+    {
+        "fulltext": "The winner was chosen quickly, dubious though the decision was dubious.\n",
+        "prompt": "The winner was chosen quickly, dubious though the decision was dubious.",
+        "prompt_tokens": [
+            "The",
+            " winner",
+            " was",
+            " chosen",
+            " quickly",
+            ",",
+            " dubious",
+            " though",
+            " the",
+            " decision",
+            " was",
+            " dubious",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -8.24988,
+            -3.4389176,
+            -2.9115524,
+            -9.720545,
+            -1.435376,
+            -15.14704,
+            -5.1302533,
+            -1.8305448,
+            -4.5326347,
+            -1.0039313,
+            -11.364374,
+            -0.83430195
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.764179
+        ],
+        "condition": "Filler/No Gap",
+        "target_surprisal": 21.852559492146767,
+        "item_num": 19
+    },
+    {
+        "fulltext": "The winner was chosen quickly, though the decision was.\n",
+        "prompt": "The winner was chosen quickly, though the decision was.",
+        "prompt_tokens": [
+            "The",
+            " winner",
+            " was",
+            " chosen",
+            " quickly",
+            ",",
+            " though",
+            " the",
+            " decision",
+            " was",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -8.24988,
+            -3.4389176,
+            -2.9115524,
+            -9.720545,
+            -1.435376,
+            -4.8898997,
+            -2.9892492,
+            -6.040497,
+            -0.9368122,
+            -9.5706415
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -2.1528554
+        ],
+        "condition": "No Filler/Gap",
+        "target_surprisal": 13.807517030176111,
+        "item_num": 19
+    },
+    {
+        "fulltext": "They appreciated the meal, expensive though it was. The",
+        "prompt": "They appreciated the meal, expensive though it was.",
+        "prompt_tokens": [
+            "They",
+            " appreciated",
+            " the",
+            " meal",
+            ",",
+            " expensive",
+            " though",
+            " it",
+            " was",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -11.001333,
+            -0.789843,
+            -8.477474,
+            -1.8203033,
+            -10.903376,
+            -3.294664,
+            -0.11448258,
+            -0.12611474,
+            -0.9928661
+        ],
+        "gen_text": " The",
+        "gen_tokens": [
+            " The"
+        ],
+        "gen_scores": [
+            -2.4566715
+        ],
+        "condition": "PiPP (Filler/Gap)",
+        "target_surprisal": 1.4324029987367657,
+        "item_num": 20
+    },
+    {
+        "fulltext": "They appreciated the meal, though it was expensive.\n",
+        "prompt": "They appreciated the meal, though it was expensive.",
+        "prompt_tokens": [
+            "They",
+            " appreciated",
+            " the",
+            " meal",
+            ",",
+            " though",
+            " it",
+            " was",
+            " expensive",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -11.001333,
+            -0.789843,
+            -8.477474,
+            -1.8203033,
+            -5.037747,
+            -2.5939846,
+            -0.7606371,
+            -5.311076,
+            -0.7112954
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.7446098
+        ],
+        "condition": "PP (No Filler/No Gap)",
+        "target_surprisal": 7.662263006984392,
+        "item_num": 20
+    },
+    {
+        "fulltext": "They appreciated the meal, expensive though it was expensive. They",
+        "prompt": "They appreciated the meal, expensive though it was expensive.",
+        "prompt_tokens": [
+            "They",
+            " appreciated",
+            " the",
+            " meal",
+            ",",
+            " expensive",
+            " though",
+            " it",
+            " was",
+            " expensive",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -11.001333,
+            -0.789843,
+            -8.477474,
+            -1.8203033,
+            -10.903376,
+            -3.294664,
+            -0.11448258,
+            -0.12611474,
+            -10.575308,
+            -1.0733263
+        ],
+        "gen_text": " They",
+        "gen_tokens": [
+            " They"
+        ],
+        "gen_scores": [
+            -1.9857887
+        ],
+        "condition": "Filler/No Gap",
+        "target_surprisal": 15.730246484147742,
+        "item_num": 20
+    },
+    {
+        "fulltext": "They appreciated the meal, though it was.\n",
+        "prompt": "They appreciated the meal, though it was.",
+        "prompt_tokens": [
+            "They",
+            " appreciated",
+            " the",
+            " meal",
+            ",",
+            " though",
+            " it",
+            " was",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -11.001333,
+            -0.789843,
+            -8.477474,
+            -1.8203033,
+            -5.037747,
+            -2.5939846,
+            -0.7606371,
+            -9.596527
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -2.1305218
+        ],
+        "condition": "No Filler/Gap",
+        "target_surprisal": 13.844861912657041,
+        "item_num": 20
+    },
+    {
+        "fulltext": "The proposal is still being assessed, inspired though it seemed.\n",
+        "prompt": "The proposal is still being assessed, inspired though it seemed.",
+        "prompt_tokens": [
+            "The",
+            " proposal",
+            " is",
+            " still",
+            " being",
+            " assessed",
+            ",",
+            " inspired",
+            " though",
+            " it",
+            " seemed",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -9.020741,
+            -2.2726152,
+            -4.423943,
+            -2.0283666,
+            -4.1388254,
+            -2.310453,
+            -12.963049,
+            -7.244225,
+            -0.46327806,
+            -6.595564,
+            -3.5904973
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.219703
+        ],
+        "condition": "PiPP (Filler/Gap)",
+        "target_surprisal": 5.179992649035213,
+        "item_num": 21
+    },
+    {
+        "fulltext": "The proposal is still being assessed, though it seemed inspired.\n",
+        "prompt": "The proposal is still being assessed, though it seemed inspired.",
+        "prompt_tokens": [
+            "The",
+            " proposal",
+            " is",
+            " still",
+            " being",
+            " assessed",
+            ",",
+            " though",
+            " it",
+            " seemed",
+            " inspired",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -9.020741,
+            -2.2726152,
+            -4.423943,
+            -2.0283666,
+            -4.1388254,
+            -2.310453,
+            -3.9871857,
+            -2.1050181,
+            -6.35932,
+            -9.4011755,
+            -3.8512914
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.1581603
+        ],
+        "condition": "PP (No Filler/No Gap)",
+        "target_surprisal": 13.563029272376822,
+        "item_num": 21
+    },
+    {
+        "fulltext": "The proposal is still being assessed, inspired though it seemed inspired.\n",
+        "prompt": "The proposal is still being assessed, inspired though it seemed inspired.",
+        "prompt_tokens": [
+            "The",
+            " proposal",
+            " is",
+            " still",
+            " being",
+            " assessed",
+            ",",
+            " inspired",
+            " though",
+            " it",
+            " seemed",
+            " inspired",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -9.020741,
+            -2.2726152,
+            -4.423943,
+            -2.0283666,
+            -4.1388254,
+            -2.310453,
+            -12.963049,
+            -7.244225,
+            -0.46327806,
+            -6.595564,
+            -9.628043,
+            -2.9359741
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.3016453
+        ],
+        "condition": "Filler/No Gap",
+        "target_surprisal": 18.701726507100638,
+        "item_num": 21
+    },
+    {
+        "fulltext": "The proposal is still being assessed, though it seemed.\n",
+        "prompt": "The proposal is still being assessed, though it seemed.",
+        "prompt_tokens": [
+            "The",
+            " proposal",
+            " is",
+            " still",
+            " being",
+            " assessed",
+            ",",
+            " though",
+            " it",
+            " seemed",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -9.020741,
+            -2.2726152,
+            -4.423943,
+            -2.0283666,
+            -4.1388254,
+            -2.310453,
+            -3.9871857,
+            -2.1050181,
+            -6.35932,
+            -10.4364
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.0446482
+        ],
+        "condition": "No Filler/Gap",
+        "target_surprisal": 15.05654252473358,
+        "item_num": 21
+    },
+    {
+        "fulltext": "They skipped the movie, exciting though it seemed.\n",
+        "prompt": "They skipped the movie, exciting though it seemed.",
+        "prompt_tokens": [
+            "They",
+            " skipped",
+            " the",
+            " movie",
+            ",",
+            " exciting",
+            " though",
+            " it",
+            " seemed",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -9.15748,
+            -1.5785091,
+            -7.240081,
+            -1.9150008,
+            -13.001173,
+            -7.0093617,
+            -0.77797085,
+            -4.7136965,
+            -0.88150686
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.5149211
+        ],
+        "condition": "PiPP (Filler/Gap)",
+        "target_surprisal": 1.2717455754316018,
+        "item_num": 22
+    },
+    {
+        "fulltext": "They skipped the movie, though it seemed exciting.\n",
+        "prompt": "They skipped the movie, though it seemed exciting.",
+        "prompt_tokens": [
+            "They",
+            " skipped",
+            " the",
+            " movie",
+            ",",
+            " though",
+            " it",
+            " seemed",
+            " exciting",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -9.15748,
+            -1.5785091,
+            -7.240081,
+            -1.9150008,
+            -4.726039,
+            -3.4829874,
+            -5.102136,
+            -8.946282,
+            -1.6653558
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.8273764
+        ],
+        "condition": "PP (No Filler/No Gap)",
+        "target_surprisal": 12.906756675794197,
+        "item_num": 22
+    },
+    {
+        "fulltext": "They skipped the movie, exciting though it seemed exciting.\n",
+        "prompt": "They skipped the movie, exciting though it seemed exciting.",
+        "prompt_tokens": [
+            "They",
+            " skipped",
+            " the",
+            " movie",
+            ",",
+            " exciting",
+            " though",
+            " it",
+            " seemed",
+            " exciting",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -9.15748,
+            -1.5785091,
+            -7.240081,
+            -1.9150008,
+            -13.001173,
+            -7.0093617,
+            -0.77797085,
+            -4.7136965,
+            -11.397396,
+            -0.97102755
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.7577585
+        ],
+        "condition": "Filler/No Gap",
+        "target_surprisal": 18.756727812839486,
+        "item_num": 22
+    },
+    {
+        "fulltext": "They skipped the movie, though it seemed.\n",
+        "prompt": "They skipped the movie, though it seemed.",
+        "prompt_tokens": [
+            "They",
+            " skipped",
+            " the",
+            " movie",
+            ",",
+            " though",
+            " it",
+            " seemed",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -9.15748,
+            -1.5785091,
+            -7.240081,
+            -1.9150008,
+            -4.726039,
+            -3.4829874,
+            -5.102136,
+            -8.768392
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.6891662
+        ],
+        "condition": "No Filler/Gap",
+        "target_surprisal": 12.650115654970461,
+        "item_num": 22
+    },
+    {
+        "fulltext": "They weren't selected, eager though they seemed. They",
+        "prompt": "They weren't selected, eager though they seemed.",
+        "prompt_tokens": [
+            "They",
+            " weren",
+            "'t",
+            " selected",
+            ",",
+            " eager",
+            " though",
+            " they",
+            " seemed",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -5.817949,
+            -0.39325687,
+            -9.284575,
+            -2.654549,
+            -13.384868,
+            -5.908064,
+            -0.72995013,
+            -3.9164126,
+            -2.1603405
+        ],
+        "gen_text": " They",
+        "gen_tokens": [
+            " They"
+        ],
+        "gen_scores": [
+            -2.289308
+        ],
+        "condition": "PiPP (Filler/Gap)",
+        "target_surprisal": 3.116712525981584,
+        "item_num": 23
+    },
+    {
+        "fulltext": "They weren't selected, though they seemed eager.\n",
+        "prompt": "They weren't selected, though they seemed eager.",
+        "prompt_tokens": [
+            "They",
+            " weren",
+            "'t",
+            " selected",
+            ",",
+            " though",
+            " they",
+            " seemed",
+            " eager",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -5.817949,
+            -0.39325687,
+            -9.284575,
+            -2.654549,
+            -3.8221936,
+            -3.2454052,
+            -4.8366003,
+            -6.2188444,
+            -2.6219537
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.7432444
+        ],
+        "condition": "PP (No Filler/No Gap)",
+        "target_surprisal": 8.971895975940102,
+        "item_num": 23
+    },
+    {
+        "fulltext": "They weren't selected, eager though they seemed eager.\n",
+        "prompt": "They weren't selected, eager though they seemed eager.",
+        "prompt_tokens": [
+            "They",
+            " weren",
+            "'t",
+            " selected",
+            ",",
+            " eager",
+            " though",
+            " they",
+            " seemed",
+            " eager",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -5.817949,
+            -0.39325687,
+            -9.284575,
+            -2.654549,
+            -13.384868,
+            -5.908064,
+            -0.72995013,
+            -3.9164126,
+            -9.433105,
+            -1.7895766
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.9728849
+        ],
+        "condition": "Filler/No Gap",
+        "target_surprisal": 19.31028268655338,
+        "item_num": 23
+    },
+    {
+        "fulltext": "They weren't selected, though they seemed.\n",
+        "prompt": "They weren't selected, though they seemed.",
+        "prompt_tokens": [
+            "They",
+            " weren",
+            "'t",
+            " selected",
+            ",",
+            " though",
+            " they",
+            " seemed",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -5.817949,
+            -0.39325687,
+            -9.284575,
+            -2.654549,
+            -3.8221936,
+            -3.2454052,
+            -4.8366003,
+            -9.286125
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -2.0791698
+        ],
+        "condition": "No Filler/Gap",
+        "target_surprisal": 13.397046486575025,
+        "item_num": 23
+    },
+    {
+        "fulltext": "We suspected they had hidden their money, modest though their lifestyle seemed. We",
+        "prompt": "We suspected they had hidden their money, modest though their lifestyle seemed.",
+        "prompt_tokens": [
+            "We",
+            " suspected",
+            " they",
+            " had",
+            " hidden",
+            " their",
+            " money",
+            ",",
+            " modest",
+            " though",
+            " their",
+            " lifestyle",
+            " seemed",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -9.846633,
+            -3.9307659,
+            -2.0450552,
+            -6.035147,
+            -3.4718492,
+            -3.7220073,
+            -2.8274684,
+            -13.640732,
+            -5.274146,
+            -3.0140529,
+            -5.4553413,
+            -4.1348352,
+            -1.2587507
+        ],
+        "gen_text": " We",
+        "gen_tokens": [
+            " We"
+        ],
+        "gen_scores": [
+            -2.2307932
+        ],
+        "condition": "PiPP (Filler/Gap)",
+        "target_surprisal": 1.8159933926055114,
+        "item_num": 24
+    },
+    {
+        "fulltext": "We suspected they had hidden their money, though their lifestyle seemed modest. We",
+        "prompt": "We suspected they had hidden their money, though their lifestyle seemed modest.",
+        "prompt_tokens": [
+            "We",
+            " suspected",
+            " they",
+            " had",
+            " hidden",
+            " their",
+            " money",
+            ",",
+            " though",
+            " their",
+            " lifestyle",
+            " seemed",
+            " modest",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -9.846633,
+            -3.9307659,
+            -2.0450552,
+            -6.035147,
+            -3.4718492,
+            -3.7220073,
+            -2.8274684,
+            -5.3261557,
+            -5.0986133,
+            -7.9180517,
+            -3.4595346,
+            -5.8866563,
+            -1.0852739
+        ],
+        "gen_text": " We",
+        "gen_tokens": [
+            " We"
+        ],
+        "gen_scores": [
+            -2.3141072
+        ],
+        "condition": "PP (No Filler/No Gap)",
+        "target_surprisal": 8.492649851427775,
+        "item_num": 24
+    },
+    {
+        "fulltext": "We suspected they had hidden their money, modest though their lifestyle seemed modest.\n",
+        "prompt": "We suspected they had hidden their money, modest though their lifestyle seemed modest.",
+        "prompt_tokens": [
+            "We",
+            " suspected",
+            " they",
+            " had",
+            " hidden",
+            " their",
+            " money",
+            ",",
+            " modest",
+            " though",
+            " their",
+            " lifestyle",
+            " seemed",
+            " modest",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -9.846633,
+            -3.9307659,
+            -2.0450552,
+            -6.035147,
+            -3.4718492,
+            -3.7220073,
+            -2.8274684,
+            -13.640732,
+            -5.274146,
+            -3.0140529,
+            -5.4553413,
+            -4.1348352,
+            -10.480578,
+            -1.4003996
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -2.246236
+        ],
+        "condition": "Filler/No Gap",
+        "target_surprisal": 19.679416410495392,
+        "item_num": 24
+    },
+    {
+        "fulltext": "We suspected they had hidden their money, though their lifestyle seemed. They",
+        "prompt": "We suspected they had hidden their money, though their lifestyle seemed.",
+        "prompt_tokens": [
+            "We",
+            " suspected",
+            " they",
+            " had",
+            " hidden",
+            " their",
+            " money",
+            ",",
+            " though",
+            " their",
+            " lifestyle",
+            " seemed",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -9.846633,
+            -3.9307659,
+            -2.0450552,
+            -6.035147,
+            -3.4718492,
+            -3.7220073,
+            -2.8274684,
+            -5.3261557,
+            -5.0986133,
+            -7.9180517,
+            -3.4595346,
+            -10.682517
+        ],
+        "gen_text": " They",
+        "gen_tokens": [
+            " They"
+        ],
+        "gen_scores": [
+            -2.147112
+        ],
+        "condition": "No Filler/Gap",
+        "target_surprisal": 15.411614300112047,
+        "item_num": 24
+    },
+    {
+        "fulltext": "The technique was hard to discover, strange though it seems.\n",
+        "prompt": "The technique was hard to discover, strange though it seems.",
+        "prompt_tokens": [
+            "The",
+            " technique",
+            " was",
+            " hard",
+            " to",
+            " discover",
+            ",",
+            " strange",
+            " though",
+            " it",
+            " seems",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -10.548178,
+            -2.8432117,
+            -8.398845,
+            -0.53408414,
+            -5.7649617,
+            -1.2891164,
+            -9.801355,
+            -5.5138597,
+            -0.39324284,
+            -2.2684205,
+            -1.3391216
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -2.3287733
+        ],
+        "condition": "PiPP (Filler/Gap)",
+        "target_surprisal": 1.931944091467294,
+        "item_num": 25
+    },
+    {
+        "fulltext": "The technique was hard to discover, though it seems strange. The",
+        "prompt": "The technique was hard to discover, though it seems strange.",
+        "prompt_tokens": [
+            "The",
+            " technique",
+            " was",
+            " hard",
+            " to",
+            " discover",
+            ",",
+            " though",
+            " it",
+            " seems",
+            " strange",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -10.548178,
+            -2.8432117,
+            -8.398845,
+            -0.53408414,
+            -5.7649617,
+            -1.2891164,
+            -4.1901073,
+            -2.1512134,
+            -3.6272516,
+            -6.676446,
+            -3.9007695
+        ],
+        "gen_text": " The",
+        "gen_tokens": [
+            " The"
+        ],
+        "gen_scores": [
+            -2.1544347
+        ],
+        "condition": "PP (No Filler/No Gap)",
+        "target_surprisal": 9.632075534962956,
+        "item_num": 25
+    },
+    {
+        "fulltext": "The technique was hard to discover, strange though it seems strange. The",
+        "prompt": "The technique was hard to discover, strange though it seems strange.",
+        "prompt_tokens": [
+            "The",
+            " technique",
+            " was",
+            " hard",
+            " to",
+            " discover",
+            ",",
+            " strange",
+            " though",
+            " it",
+            " seems",
+            " strange",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -10.548178,
+            -2.8432117,
+            -8.398845,
+            -0.53408414,
+            -5.7649617,
+            -1.2891164,
+            -9.801355,
+            -5.5138597,
+            -0.39324284,
+            -2.2684205,
+            -9.293215,
+            -1.5308211
+        ],
+        "gen_text": " The",
+        "gen_tokens": [
+            " The"
+        ],
+        "gen_scores": [
+            -2.3499494
+        ],
+        "condition": "Filler/No Gap",
+        "target_surprisal": 14.140366252492246,
+        "item_num": 25
+    },
+    {
+        "fulltext": "The technique was hard to discover, though it seems. The",
+        "prompt": "The technique was hard to discover, though it seems.",
+        "prompt_tokens": [
+            "The",
+            " technique",
+            " was",
+            " hard",
+            " to",
+            " discover",
+            ",",
+            " though",
+            " it",
+            " seems",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -10.548178,
+            -2.8432117,
+            -8.398845,
+            -0.53408414,
+            -5.7649617,
+            -1.2891164,
+            -4.1901073,
+            -2.1512134,
+            -3.6272516,
+            -8.950801
+        ],
+        "gen_text": " The",
+        "gen_tokens": [
+            " The"
+        ],
+        "gen_scores": [
+            -2.2371187
+        ],
+        "condition": "No Filler/Gap",
+        "target_surprisal": 12.913276214683975,
+        "item_num": 25
+    },
+    {
+        "fulltext": "Clumsy though you appear to be, we will bring you along.",
+        "prompt": "Clumsy though you appear to be, we will bring you along.",
+        "prompt_tokens": [
+            "Cl",
+            "umsy",
+            " though",
+            " you",
+            " appear",
+            " to",
+            " be",
+            ",",
+            " we",
+            " will",
+            " bring",
+            " you",
+            " along",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -11.570048,
+            -7.8056517,
+            -4.7617345,
+            -7.1553783,
+            -1.1557845,
+            -0.28843942,
+            -0.38088676,
+            -3.9804296,
+            -2.323708,
+            -6.3917413,
+            -0.27091417,
+            -5.0287476,
+            -2.2295523
+        ],
+        "gen_text": "bytes:\\xe2\\x80",
+        "gen_tokens": [
+            "bytes:\\xe2\\x80"
+        ],
+        "gen_scores": [
+            -1.6779629
+        ],
+        "condition": "PiPP (Filler/Gap)",
+        "target_surprisal": 0.5495034397922648,
+        "item_num": 26
+    },
+    {
+        "fulltext": "Though you appear to be clumsy, we will bring you along.",
+        "prompt": "Though you appear to be clumsy, we will bring you along.",
+        "prompt_tokens": [
+            "Though",
+            " you",
+            " appear",
+            " to",
+            " be",
+            " clumsy",
+            ",",
+            " we",
+            " will",
+            " bring",
+            " you",
+            " along",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -3.886841,
+            -7.849802,
+            -0.4725645,
+            -0.68212163,
+            -10.9332285,
+            -0.90443534,
+            -4.5808725,
+            -2.658724,
+            -6.798524,
+            -0.25675365,
+            -3.8989148,
+            -2.4368782
+        ],
+        "gen_text": "bytes:\\xe2\\x80",
+        "gen_tokens": [
+            "bytes:\\xe2\\x80"
+        ],
+        "gen_scores": [
+            -1.6874161
+        ],
+        "condition": "PP (No Filler/No Gap)",
+        "target_surprisal": 15.773314537855882,
+        "item_num": 26
+    },
+    {
+        "fulltext": "Clumsy though you appear to be clumsy, we will bring you along.",
+        "prompt": "Clumsy though you appear to be clumsy, we will bring you along.",
+        "prompt_tokens": [
+            "Cl",
+            "umsy",
+            " though",
+            " you",
+            " appear",
+            " to",
+            " be",
+            " clumsy",
+            ",",
+            " we",
+            " will",
+            " bring",
+            " you",
+            " along",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -11.570048,
+            -7.8056517,
+            -4.7617345,
+            -7.1553783,
+            -1.1557845,
+            -0.28843942,
+            -9.570612,
+            -0.80994797,
+            -4.2218823,
+            -2.560482,
+            -6.676779,
+            -0.24997558,
+            -4.670179,
+            -2.200142
+        ],
+        "gen_text": "bytes:\\xe2\\x80",
+        "gen_tokens": [
+            "bytes:\\xe2\\x80"
+        ],
+        "gen_scores": [
+            -1.7749503
+        ],
+        "condition": "Filler/No Gap",
+        "target_surprisal": 13.807474470672405,
+        "item_num": 26
+    },
+    {
+        "fulltext": "Though you appear to be, we will bring you along.",
+        "prompt": "Though you appear to be, we will bring you along.",
+        "prompt_tokens": [
+            "Though",
+            " you",
+            " appear",
+            " to",
+            " be",
+            ",",
+            " we",
+            " will",
+            " bring",
+            " you",
+            " along",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -3.886841,
+            -7.849802,
+            -0.4725645,
+            -0.68212163,
+            -6.4001026,
+            -5.0765753,
+            -2.641234,
+            -5.9929304,
+            -0.70228475,
+            -5.7369413,
+            -2.2203898
+        ],
+        "gen_text": "bytes:\\xe2\\x80",
+        "gen_tokens": [
+            "bytes:\\xe2\\x80"
+        ],
+        "gen_scores": [
+            -1.6100588
+        ],
+        "condition": "No Filler/Gap",
+        "target_surprisal": 9.233396282200562,
+        "item_num": 26
+    },
+    {
+        "fulltext": "Cheerful though you seem to be, I can tell you are trying hard. You",
+        "prompt": "Cheerful though you seem to be, I can tell you are trying hard.",
+        "prompt_tokens": [
+            "Che",
+            "er",
+            "ful",
+            " though",
+            " you",
+            " seem",
+            " to",
+            " be",
+            ",",
+            " I",
+            " can",
+            " tell",
+            " you",
+            " are",
+            " trying",
+            " hard",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -5.2483263,
+            -2.2164989,
+            -7.7301674,
+            -4.6385427,
+            -4.61525,
+            -1.4822445,
+            -0.6215744,
+            -0.4766364,
+            -1.661269,
+            -2.3756802,
+            -1.8086588,
+            -0.6416446,
+            -3.1795506,
+            -5.584897,
+            -3.5621867,
+            -1.90689
+        ],
+        "gen_text": " You",
+        "gen_tokens": [
+            " You"
+        ],
+        "gen_scores": [
+            -1.8383067
+        ],
+        "condition": "PiPP (Filler/Gap)",
+        "target_surprisal": 0.6876409705871683,
+        "item_num": 27
+    },
+    {
+        "fulltext": "Though you seem to be cheerful, I can tell you are trying hard. You",
+        "prompt": "Though you seem to be cheerful, I can tell you are trying hard.",
+        "prompt_tokens": [
+            "Though",
+            " you",
+            " seem",
+            " to",
+            " be",
+            " cheerful",
+            ",",
+            " I",
+            " can",
+            " tell",
+            " you",
+            " are",
+            " trying",
+            " hard",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -3.886841,
+            -7.056157,
+            -0.4744546,
+            -1.1651443,
+            -10.529219,
+            -1.0397171,
+            -1.4116706,
+            -2.8486056,
+            -2.2281308,
+            -0.6610332,
+            -2.440185,
+            -5.285639,
+            -2.8801649,
+            -1.5973918
+        ],
+        "gen_text": " You",
+        "gen_tokens": [
+            " You"
+        ],
+        "gen_scores": [
+            -2.067936
+        ],
+        "condition": "PP (No Filler/No Gap)",
+        "target_surprisal": 15.19045203573385,
+        "item_num": 27
+    },
+    {
+        "fulltext": "Cheerful though you seem to be cheerful, I can tell you are trying hard. You",
+        "prompt": "Cheerful though you seem to be cheerful, I can tell you are trying hard.",
+        "prompt_tokens": [
+            "Che",
+            "er",
+            "ful",
+            " though",
+            " you",
+            " seem",
+            " to",
+            " be",
+            " cheerful",
+            ",",
+            " I",
+            " can",
+            " tell",
+            " you",
+            " are",
+            " trying",
+            " hard",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -5.2483263,
+            -2.2164989,
+            -7.7301674,
+            -4.6385427,
+            -4.61525,
+            -1.4822445,
+            -0.6215744,
+            -9.159397,
+            -0.6743959,
+            -2.1793923,
+            -2.4970148,
+            -1.9069803,
+            -0.6611599,
+            -2.7605677,
+            -5.8811555,
+            -3.4604142,
+            -1.85732
+        ],
+        "gen_text": " You",
+        "gen_tokens": [
+            " You"
+        ],
+        "gen_scores": [
+            -1.7055302
+        ],
+        "condition": "Filler/No Gap",
+        "target_surprisal": 13.214216629433249,
+        "item_num": 27
+    },
+    {
+        "fulltext": "Though you seem to be, I can tell you are trying hard. I",
+        "prompt": "Though you seem to be, I can tell you are trying hard.",
+        "prompt_tokens": [
+            "Though",
+            " you",
+            " seem",
+            " to",
+            " be",
+            ",",
+            " I",
+            " can",
+            " tell",
+            " you",
+            " are",
+            " trying",
+            " hard",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -3.886841,
+            -7.056157,
+            -0.4744546,
+            -1.1651443,
+            -6.3181453,
+            -2.4996493,
+            -3.1154299,
+            -2.515261,
+            -0.89571726,
+            -2.7780554,
+            -4.7884398,
+            -4.064014,
+            -1.9989249
+        ],
+        "gen_text": " I",
+        "gen_tokens": [
+            " I"
+        ],
+        "gen_scores": [
+            -1.6422056
+        ],
+        "condition": "No Filler/Gap",
+        "target_surprisal": 9.115156891925913,
+        "item_num": 27
+    },
+    {
+        "fulltext": "Positive though they appear to be, they must still be debating the ideas.\n",
+        "prompt": "Positive though they appear to be, they must still be debating the ideas.",
+        "prompt_tokens": [
+            "Pos",
+            "itive",
+            " though",
+            " they",
+            " appear",
+            " to",
+            " be",
+            ",",
+            " they",
+            " must",
+            " still",
+            " be",
+            " debating",
+            " the",
+            " ideas",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -1.6253208,
+            -9.518245,
+            -4.4942374,
+            -5.370138,
+            -0.76882166,
+            -0.22309956,
+            -0.53237814,
+            -2.0851436,
+            -5.369065,
+            -4.037032,
+            -0.70205885,
+            -12.272697,
+            -1.7908294,
+            -8.381849,
+            -3.9347425
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.5269929
+        ],
+        "condition": "PiPP (Filler/Gap)",
+        "target_surprisal": 0.7680593024556904,
+        "item_num": 28
+    },
+    {
+        "fulltext": "Though they appear to be positive, they must still be debating the ideas.\n",
+        "prompt": "Though they appear to be positive, they must still be debating the ideas.",
+        "prompt_tokens": [
+            "Though",
+            " they",
+            " appear",
+            " to",
+            " be",
+            " positive",
+            ",",
+            " they",
+            " must",
+            " still",
+            " be",
+            " debating",
+            " the",
+            " ideas",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -4.214661,
+            -5.9289107,
+            -0.45066968,
+            -0.68275094,
+            -8.027735,
+            -1.9483808,
+            -2.2373638,
+            -5.381212,
+            -3.9075527,
+            -0.57725406,
+            -10.913309,
+            -1.7649307,
+            -7.6361084,
+            -3.1671143
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.4045193
+        ],
+        "condition": "PP (No Filler/No Gap)",
+        "target_surprisal": 11.581573474070764,
+        "item_num": 28
+    },
+    {
+        "fulltext": "Positive though they appear to be positive, they must still be debating the ideas.\n",
+        "prompt": "Positive though they appear to be positive, they must still be debating the ideas.",
+        "prompt_tokens": [
+            "Pos",
+            "itive",
+            " though",
+            " they",
+            " appear",
+            " to",
+            " be",
+            " positive",
+            ",",
+            " they",
+            " must",
+            " still",
+            " be",
+            " debating",
+            " the",
+            " ideas",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -1.6164898,
+            -9.514003,
+            -4.491875,
+            -5.364388,
+            -0.766629,
+            -0.22405396,
+            -7.890059,
+            -1.3474011,
+            -2.1892972,
+            -5.6768594,
+            -4.1710725,
+            -0.5943924,
+            -12.507133,
+            -1.9045783,
+            -7.905585,
+            -3.6519632
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.7005945
+        ],
+        "condition": "Filler/No Gap",
+        "target_surprisal": 11.382948991621333,
+        "item_num": 28
+    },
+    {
+        "fulltext": "Though they appear to be, they must still be debating the ideas.\n",
+        "prompt": "Though they appear to be, they must still be debating the ideas.",
+        "prompt_tokens": [
+            "Though",
+            " they",
+            " appear",
+            " to",
+            " be",
+            ",",
+            " they",
+            " must",
+            " still",
+            " be",
+            " debating",
+            " the",
+            " ideas",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -4.214661,
+            -5.9289107,
+            -0.45066968,
+            -0.68275094,
+            -5.791979,
+            -3.5392337,
+            -4.9583826,
+            -4.681986,
+            -0.6759682,
+            -10.625524,
+            -1.8068566,
+            -7.711314,
+            -3.194889
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.5041705
+        ],
+        "condition": "No Filler/Gap",
+        "target_surprisal": 8.356059380233019,
+        "item_num": 28
+    },
+    {
+        "fulltext": "Evil though the corporation appears to be, it employs the best-connected people.\n",
+        "prompt": "Evil though the corporation appears to be, it employs the best-connected people.",
+        "prompt_tokens": [
+            "Evil",
+            " though",
+            " the",
+            " corporation",
+            " appears",
+            " to",
+            " be",
+            ",",
+            " it",
+            " employs",
+            " the",
+            " best",
+            "-",
+            "connected",
+            " people",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -10.390717,
+            -3.463646,
+            -11.252157,
+            -6.7983556,
+            -0.27585799,
+            -0.4811369,
+            -1.9975663,
+            -1.9231117,
+            -8.648602,
+            -2.6061685,
+            -3.1964715,
+            -4.672789,
+            -5.856008,
+            -1.8698078,
+            -3.0473125
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -2.4074097
+        ],
+        "condition": "PiPP (Filler/Gap)",
+        "target_surprisal": 2.8818789948569155,
+        "item_num": 29
+    },
+    {
+        "fulltext": "Though the corporation appears to be evil, it employs the best-connected people. The",
+        "prompt": "Though the corporation appears to be evil, it employs the best-connected people.",
+        "prompt_tokens": [
+            "Though",
+            " the",
+            " corporation",
+            " appears",
+            " to",
+            " be",
+            " evil",
+            ",",
+            " it",
+            " employs",
+            " the",
+            " best",
+            "-",
+            "connected",
+            " people",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -1.7078652,
+            -9.61981,
+            -6.0164366,
+            -0.24355204,
+            -0.74596524,
+            -9.141486,
+            -0.7195536,
+            -1.6917468,
+            -8.737563,
+            -2.5930862,
+            -2.816357,
+            -4.626581,
+            -6.3173766,
+            -1.5671184,
+            -3.0411923
+        ],
+        "gen_text": " The",
+        "gen_tokens": [
+            " The"
+        ],
+        "gen_scores": [
+            -2.3813417
+        ],
+        "condition": "PP (No Filler/No Gap)",
+        "target_surprisal": 13.188376518555888,
+        "item_num": 29
+    },
+    {
+        "fulltext": "Evil though the corporation appears to be evil, it employs the best-connected people. It",
+        "prompt": "Evil though the corporation appears to be evil, it employs the best-connected people.",
+        "prompt_tokens": [
+            "Evil",
+            " though",
+            " the",
+            " corporation",
+            " appears",
+            " to",
+            " be",
+            " evil",
+            ",",
+            " it",
+            " employs",
+            " the",
+            " best",
+            "-",
+            "connected",
+            " people",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -10.387679,
+            -3.4691224,
+            -11.261959,
+            -6.8044114,
+            -0.27568445,
+            -0.48049524,
+            -6.6244707,
+            -1.2139058,
+            -1.8805823,
+            -9.067956,
+            -2.2869298,
+            -3.1351416,
+            -4.776321,
+            -6.403076,
+            -1.8824427,
+            -3.313565
+        ],
+        "gen_text": " It",
+        "gen_tokens": [
+            " It"
+        ],
+        "gen_scores": [
+            -2.1967988
+        ],
+        "condition": "Filler/No Gap",
+        "target_surprisal": 9.55709102740424,
+        "item_num": 29
+    },
+    {
+        "fulltext": "Though the corporation appears to be, it employs the best-connected people. The",
+        "prompt": "Though the corporation appears to be, it employs the best-connected people.",
+        "prompt_tokens": [
+            "Though",
+            " the",
+            " corporation",
+            " appears",
+            " to",
+            " be",
+            ",",
+            " it",
+            " employs",
+            " the",
+            " best",
+            "-",
+            "connected",
+            " people",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -1.7078652,
+            -9.61981,
+            -6.0164366,
+            -0.24355204,
+            -0.74596524,
+            -6.3807836,
+            -3.9099877,
+            -10.187082,
+            -2.7251823,
+            -3.9899416,
+            -4.3403335,
+            -5.905775,
+            -1.9195964,
+            -2.9080276
+        ],
+        "gen_text": " The",
+        "gen_tokens": [
+            " The"
+        ],
+        "gen_scores": [
+            -2.4140868
+        ],
+        "condition": "No Filler/Gap",
+        "target_surprisal": 9.205524856705628,
+        "item_num": 29
+    },
+    {
+        "fulltext": "Rare though the animal appears to be, it is often found in nature preserves.\n",
+        "prompt": "Rare though the animal appears to be, it is often found in nature preserves.",
+        "prompt_tokens": [
+            "Rare",
+            " though",
+            " the",
+            " animal",
+            " appears",
+            " to",
+            " be",
+            ",",
+            " it",
+            " is",
+            " often",
+            " found",
+            " in",
+            " nature",
+            " preserves",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -9.762465,
+            -3.0207298,
+            -8.551664,
+            -5.1244764,
+            -0.55470407,
+            -0.5020654,
+            -5.1964397,
+            -1.8354374,
+            -0.9485366,
+            -5.753132,
+            -3.6824663,
+            -0.8049712,
+            -5.7232747,
+            -8.25018,
+            -1.9844656
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.4808711
+        ],
+        "condition": "PiPP (Filler/Gap)",
+        "target_surprisal": 7.496877785468533,
+        "item_num": 30
+    },
+    {
+        "fulltext": "Though the animal appears to be rare, it is often found in nature preserves.\n",
+        "prompt": "Though the animal appears to be rare, it is often found in nature preserves.",
+        "prompt_tokens": [
+            "Though",
+            " the",
+            " animal",
+            " appears",
+            " to",
+            " be",
+            " rare",
+            ",",
+            " it",
+            " is",
+            " often",
+            " found",
+            " in",
+            " nature",
+            " preserves",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -1.7078652,
+            -8.620092,
+            -5.0395083,
+            -0.4115483,
+            -0.5672527,
+            -8.520544,
+            -0.59713185,
+            -1.4778308,
+            -0.789914,
+            -5.6278996,
+            -2.3719573,
+            -0.50094765,
+            -5.4463854,
+            -7.523384,
+            -1.9427058
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.5211056
+        ],
+        "condition": "PP (No Filler/No Gap)",
+        "target_surprisal": 12.29254657447621,
+        "item_num": 30
+    },
+    {
+        "fulltext": "Rare though the animal appears to be rare, it is often found in nature preserves.\n",
+        "prompt": "Rare though the animal appears to be rare, it is often found in nature preserves.",
+        "prompt_tokens": [
+            "Rare",
+            " though",
+            " the",
+            " animal",
+            " appears",
+            " to",
+            " be",
+            " rare",
+            ",",
+            " it",
+            " is",
+            " often",
+            " found",
+            " in",
+            " nature",
+            " preserves",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -9.765531,
+            -3.012522,
+            -8.550654,
+            -5.1265454,
+            -0.555151,
+            -0.5030746,
+            -7.3962007,
+            -1.6645322,
+            -1.8697233,
+            -0.764517,
+            -5.4865675,
+            -2.9125087,
+            -0.6429785,
+            -5.608874,
+            -7.6401396,
+            -1.9343746
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.4592534
+        ],
+        "condition": "Filler/No Gap",
+        "target_surprisal": 10.67046207130948,
+        "item_num": 30
+    },
+    {
+        "fulltext": "Though the animal appears to be, it is often found in nature preserves.\n",
+        "prompt": "Though the animal appears to be, it is often found in nature preserves.",
+        "prompt_tokens": [
+            "Though",
+            " the",
+            " animal",
+            " appears",
+            " to",
+            " be",
+            ",",
+            " it",
+            " is",
+            " often",
+            " found",
+            " in",
+            " nature",
+            " preserves",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -1.7078652,
+            -8.620092,
+            -5.0395083,
+            -0.4115483,
+            -0.5672527,
+            -7.0741353,
+            -3.943456,
+            -0.9553587,
+            -5.704616,
+            -4.542688,
+            -0.98979807,
+            -5.5890203,
+            -9.057531,
+            -2.090171
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.70877
+        ],
+        "condition": "No Filler/Gap",
+        "target_surprisal": 10.20581991588756,
+        "item_num": 30
+    },
+    {
+        "fulltext": "It was described as an accident, deliberate though it may have seemed.\n",
+        "prompt": "It was described as an accident, deliberate though it may have seemed.",
+        "prompt_tokens": [
+            "It",
+            " was",
+            " described",
+            " as",
+            " an",
+            " accident",
+            ",",
+            " deliberate",
+            " though",
+            " it",
+            " may",
+            " have",
+            " seemed",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -2.0966413,
+            -7.962541,
+            -0.49732518,
+            -2.7470562,
+            -5.5617785,
+            -1.7614932,
+            -10.598084,
+            -6.0579996,
+            -0.6127233,
+            -1.5465409,
+            -0.5132778,
+            -4.9512453,
+            -1.1080732
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.1561071
+        ],
+        "condition": "PiPP (Filler/Gap)",
+        "target_surprisal": 1.5986117105819646,
+        "item_num": 31
+    },
+    {
+        "fulltext": "It was described as an accident, though it may have seemed deliberate.\n",
+        "prompt": "It was described as an accident, though it may have seemed deliberate.",
+        "prompt_tokens": [
+            "It",
+            " was",
+            " described",
+            " as",
+            " an",
+            " accident",
+            ",",
+            " though",
+            " it",
+            " may",
+            " have",
+            " seemed",
+            " deliberate",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -2.0966413,
+            -7.962541,
+            -0.49732518,
+            -2.7470562,
+            -5.5617785,
+            -1.7614932,
+            -4.439384,
+            -1.9984256,
+            -3.6727653,
+            -0.4671846,
+            -8.111798,
+            -6.0813227,
+            -0.8440556
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.0867686
+        ],
+        "condition": "PP (No Filler/No Gap)",
+        "target_surprisal": 8.773494101335482,
+        "item_num": 31
+    },
+    {
+        "fulltext": "It was described as an accident, deliberate though it may have seemed deliberate.\n",
+        "prompt": "It was described as an accident, deliberate though it may have seemed deliberate.",
+        "prompt_tokens": [
+            "It",
+            " was",
+            " described",
+            " as",
+            " an",
+            " accident",
+            ",",
+            " deliberate",
+            " though",
+            " it",
+            " may",
+            " have",
+            " seemed",
+            " deliberate",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -2.0966413,
+            -7.962541,
+            -0.49732518,
+            -2.7470562,
+            -5.5617785,
+            -1.7614932,
+            -10.598084,
+            -6.0579996,
+            -0.6127233,
+            -1.5465409,
+            -0.5132778,
+            -4.9512453,
+            -12.219058,
+            -0.97047436
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.2433745
+        ],
+        "condition": "Filler/No Gap",
+        "target_surprisal": 15.289803229724669,
+        "item_num": 31
+    },
+    {
+        "fulltext": "It was described as an accident, though it may have seemed.\n",
+        "prompt": "It was described as an accident, though it may have seemed.",
+        "prompt_tokens": [
+            "It",
+            " was",
+            " described",
+            " as",
+            " an",
+            " accident",
+            ",",
+            " though",
+            " it",
+            " may",
+            " have",
+            " seemed",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -2.0966413,
+            -7.962541,
+            -0.49732518,
+            -2.7470562,
+            -5.5617785,
+            -1.7614932,
+            -4.439384,
+            -1.9984256,
+            -3.6727653,
+            -0.4671846,
+            -8.111798,
+            -9.152476
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.2763152
+        ],
+        "condition": "No Filler/Gap",
+        "target_surprisal": 13.204231737055256,
+        "item_num": 31
+    },
+    {
+        "fulltext": "The answer was repeatedly proven correct, wrong though it may have appeared.\n",
+        "prompt": "The answer was repeatedly proven correct, wrong though it may have appeared.",
+        "prompt_tokens": [
+            "The",
+            " answer",
+            " was",
+            " repeatedly",
+            " proven",
+            " correct",
+            ",",
+            " wrong",
+            " though",
+            " it",
+            " may",
+            " have",
+            " appeared",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -7.183181,
+            -2.6254756,
+            -10.49142,
+            -7.6005406,
+            -3.573655,
+            -2.1130562,
+            -10.213049,
+            -8.169917,
+            -0.7499731,
+            -0.6567126,
+            -1.4362292,
+            -3.4801822,
+            -1.0251391
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.4452679
+        ],
+        "condition": "PiPP (Filler/Gap)",
+        "target_surprisal": 1.4789630957913753,
+        "item_num": 32
+    },
+    {
+        "fulltext": "The answer was repeatedly proven correct, though it may have appeared wrong.\n",
+        "prompt": "The answer was repeatedly proven correct, though it may have appeared wrong.",
+        "prompt_tokens": [
+            "The",
+            " answer",
+            " was",
+            " repeatedly",
+            " proven",
+            " correct",
+            ",",
+            " though",
+            " it",
+            " may",
+            " have",
+            " appeared",
+            " wrong",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -7.183181,
+            -2.6254756,
+            -10.49142,
+            -7.6005406,
+            -3.573655,
+            -2.1130562,
+            -4.123024,
+            -2.48668,
+            -3.9786577,
+            -1.1815765,
+            -4.868763,
+            -6.219756,
+            -1.5464779
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.5044118
+        ],
+        "condition": "PP (No Filler/No Gap)",
+        "target_surprisal": 8.973211136739376,
+        "item_num": 32
+    },
+    {
+        "fulltext": "The answer was repeatedly proven correct, wrong though it may have appeared wrong.\n",
+        "prompt": "The answer was repeatedly proven correct, wrong though it may have appeared wrong.",
+        "prompt_tokens": [
+            "The",
+            " answer",
+            " was",
+            " repeatedly",
+            " proven",
+            " correct",
+            ",",
+            " wrong",
+            " though",
+            " it",
+            " may",
+            " have",
+            " appeared",
+            " wrong",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -7.183181,
+            -2.6254756,
+            -10.49142,
+            -7.6005406,
+            -3.573655,
+            -2.1130562,
+            -10.213049,
+            -8.169917,
+            -0.7499731,
+            -0.6567126,
+            -1.4362292,
+            -3.4801822,
+            -10.694333,
+            -0.7570698
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.5219722
+        ],
+        "condition": "Filler/No Gap",
+        "target_surprisal": 14.734315144655987,
+        "item_num": 32
+    },
+    {
+        "fulltext": "The answer was repeatedly proven correct, though it may have appeared.\n",
+        "prompt": "The answer was repeatedly proven correct, though it may have appeared.",
+        "prompt_tokens": [
+            "The",
+            " answer",
+            " was",
+            " repeatedly",
+            " proven",
+            " correct",
+            ",",
+            " though",
+            " it",
+            " may",
+            " have",
+            " appeared",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -7.183181,
+            -2.6254756,
+            -10.49142,
+            -7.6005406,
+            -3.573655,
+            -2.1130562,
+            -4.123024,
+            -2.48668,
+            -3.9786577,
+            -1.1815765,
+            -4.868763,
+            -6.9747453
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.475447
+        ],
+        "condition": "No Filler/Gap",
+        "target_surprisal": 10.062430455773606,
+        "item_num": 32
+    },
+    {
+        "fulltext": "The vacationers emphasized that the vacation was fun, frantic though it may have seemed.\n",
+        "prompt": "The vacationers emphasized that the vacation was fun, frantic though it may have seemed.",
+        "prompt_tokens": [
+            "The",
+            " vacation",
+            "ers",
+            " emphasized",
+            " that",
+            " the",
+            " vacation",
+            " was",
+            " fun",
+            ",",
+            " frantic",
+            " though",
+            " it",
+            " may",
+            " have",
+            " seemed",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -11.570942,
+            -4.435487,
+            -11.282875,
+            -1.0423301,
+            -1.3300889,
+            -6.2312126,
+            -2.6617725,
+            -6.421267,
+            -1.3621198,
+            -12.633627,
+            -8.540505,
+            -0.33327085,
+            -2.8475559,
+            -1.0178431,
+            -2.4810748,
+            -0.80157787
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.8088305
+        ],
+        "condition": "PiPP (Filler/Gap)",
+        "target_surprisal": 1.1564324179353382,
+        "item_num": 33
+    },
+    {
+        "fulltext": "The vacationers emphasized that the vacation was fun, though it may have seemed frantic.\n",
+        "prompt": "The vacationers emphasized that the vacation was fun, though it may have seemed frantic.",
+        "prompt_tokens": [
+            "The",
+            " vacation",
+            "ers",
+            " emphasized",
+            " that",
+            " the",
+            " vacation",
+            " was",
+            " fun",
+            ",",
+            " though",
+            " it",
+            " may",
+            " have",
+            " seemed",
+            " frantic",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -11.570942,
+            -4.435487,
+            -11.282875,
+            -1.0423301,
+            -1.3300889,
+            -6.2312126,
+            -2.6617725,
+            -6.421267,
+            -1.3621198,
+            -5.4355845,
+            -2.6296978,
+            -4.365145,
+            -1.3106027,
+            -4.436605,
+            -8.814631,
+            -1.0666074
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.3387891
+        ],
+        "condition": "PP (No Filler/No Gap)",
+        "target_surprisal": 12.716824430966126,
+        "item_num": 33
+    },
+    {
+        "fulltext": "The vacationers emphasized that the vacation was fun, frantic though it may have seemed frantic. They",
+        "prompt": "The vacationers emphasized that the vacation was fun, frantic though it may have seemed frantic.",
+        "prompt_tokens": [
+            "The",
+            " vacation",
+            "ers",
+            " emphasized",
+            " that",
+            " the",
+            " vacation",
+            " was",
+            " fun",
+            ",",
+            " frantic",
+            " though",
+            " it",
+            " may",
+            " have",
+            " seemed",
+            " frantic",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -11.570942,
+            -4.435487,
+            -11.282875,
+            -1.0423301,
+            -1.3300889,
+            -6.2312126,
+            -2.6617725,
+            -6.421267,
+            -1.3621198,
+            -12.633627,
+            -8.540505,
+            -0.33327085,
+            -2.8475559,
+            -1.0178431,
+            -2.4810748,
+            -12.797152,
+            -0.8157625
+        ],
+        "gen_text": " They",
+        "gen_tokens": [
+            " They"
+        ],
+        "gen_scores": [
+            -1.7487715
+        ],
+        "condition": "Filler/No Gap",
+        "target_surprisal": 18.226471021340913,
+        "item_num": 33
+    },
+    {
+        "fulltext": "The vacationers emphasized that the vacation was fun, though it may have seemed.\n",
+        "prompt": "The vacationers emphasized that the vacation was fun, though it may have seemed.",
+        "prompt_tokens": [
+            "The",
+            " vacation",
+            "ers",
+            " emphasized",
+            " that",
+            " the",
+            " vacation",
+            " was",
+            " fun",
+            ",",
+            " though",
+            " it",
+            " may",
+            " have",
+            " seemed",
+            "."
+        ],
+        "prompt_scores": [
+            0.0,
+            -11.574887,
+            -4.447835,
+            -11.276718,
+            -1.0429201,
+            -1.3279674,
+            -6.245565,
+            -2.6647873,
+            -6.424634,
+            -1.3625141,
+            -5.4415126,
+            -2.6233346,
+            -4.362424,
+            -1.3150864,
+            -4.4374275,
+            -8.433887
+        ],
+        "gen_text": "\n",
+        "gen_tokens": [
+            "\n"
+        ],
+        "gen_scores": [
+            -1.3810748
+        ],
+        "condition": "No Filler/Gap",
+        "target_surprisal": 12.167526950317898,
+        "item_num": 33
+    }
+]
