@@ -2,6 +2,10 @@
 
 Christopher Potts
 
+## Paper
+
+Potts, Christopher. 2023. [Characterizing English Preposing in PP constructions](potts-pipp-paper.pdf). To be submitted to _English language and linguistic theory: A tribute to Geoff Pullum_.
+
 ## Contents
 
 This code is intended to be run with Python 3.9.
