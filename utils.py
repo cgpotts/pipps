@@ -252,3 +252,16 @@ def get_cis(s):
     s1a, s1b = boot.ci(vals)
     s1a, s1b = mu -s1a, s1b-mu
     return [s1a, s1b]
+
+
+def model_predict(examples, tokenizer, model):
+    enc = tokenizer.batch_encode_plus(
+        examples,
+        padding=True,
+        truncation=True,
+        add_special_tokens=True,
+        return_attention_mask=True,
+        return_tensors='pt')
+    logits = model(**enc).logits
+    preds = logits.softmax(-1).argmax(-1).numpy()
+    return preds

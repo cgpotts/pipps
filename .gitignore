@@ -160,3 +160,6 @@ cython_debug/
 #.idea/
 *.DS_Store
 samples/*
+models/*
+special_searches.ipynb
+annotation_validation.ipynb
