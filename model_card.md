@@ -1,10 +1,19 @@
 ---
 license: apache-2.0
+language:
+- en
+tags:
+- linguistics
 ---
 
 # Model Card for pipp-finder-bert-base-cased
 
 This highly idiosyncratic and specific binary classifier is designed for the sole purpose of helping linguists find instances of the English Preposing in PP (PiPPs) construction in corpora. PiPPs are unbounded dependency constructions like "_Happy though we were with the idea_, we decided not to pursue it". This model does a good job of classifying sentences for whether or not they contain an instance of the construction. 
+
+The model is used as an investigative tool in this paper:
+
+> Potts, Christopher. 2023. [Characterizing English Preposing in PP constructions](https://lingbuzz.net/lingbuzz/007495). Ms., Stanford.
+
 
 
 ## Model Details
@@ -27,7 +36,7 @@ The model outputs `1` if it predicts the input contains a PiPP, else `0`.
 <!-- Provide the basic links for the model. -->
 
 - **Repository:** https://github.com/cgpotts/pipps
-- **Paper [optional]:** https://github.com/cgpotts/pipps/blob/main/potts-pipp-paper.pdf
+- **Paper [optional]:** https://lingbuzz.net/lingbuzz/007495
 
 
 ## Uses
