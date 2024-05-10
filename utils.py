@@ -1,5 +1,6 @@
 from contextlib import nullcontext
 import scikits.bootstrap as boot
+import matplotlib.pyplot as plt
 from nltk.tokenize import TweetTokenizer
 import numpy as np
 import openai
@@ -265,3 +266,42 @@ def model_predict(examples, tokenizer, model):
     logits = model(**enc).logits
     preds = logits.softmax(-1).argmax(-1).numpy()
     return preds
+
+
+def mean_plot(filename, order, xlim=14):
+    df = pd.read_json(filename)
+
+    mus = df.groupby("condition")['target_surprisal'].mean()
+    mus = mus.loc[order]
+
+    cis = df.groupby("condition")['target_surprisal'].apply(get_cis)
+    cis = cis.loc[order]
+    cis = np.array([np.array(x) for x in cis.values])
+
+    gapless_color = "#a1def0"
+    gap_color = "#881d2a"
+
+    ax = mus.plot.barh(
+        xerr=cis.T,
+        figsize=(8, 5),
+        color=[gapless_color, gapless_color, gap_color, gap_color])
+
+    ax.set_xlabel("Mean surprisal")
+    ax.set_ylabel("")
+    ax.set_xlim([0, xlim])
+
+    add_wh_effect(ax, mus.iloc[1], mus.iloc[0], 0.5, gapless_color)
+    add_wh_effect(ax, mus.iloc[3], mus.iloc[2], 2.5, gap_color)
+
+    output_filename = filename.replace(".json", ".pdf")
+    plt.tight_layout()
+    plt.savefig(output_filename, dpi=500)
+    plt.close()
+
+
+def add_wh_effect(ax, v1, v2, yval, color, nudge=0.2):
+    effect = v1 - v2
+    xpos = max([v1, v2]) + nudge
+    val = "${}{:.2f}$".format("+" if effect > 0 else "", effect)
+    ax.plot([v2, v1], [yval, yval], lw=3, linestyle="dotted", color=color)
+    ax.text(xpos, yval, val, va='center', color='black', fontsize=16, ha='left')
